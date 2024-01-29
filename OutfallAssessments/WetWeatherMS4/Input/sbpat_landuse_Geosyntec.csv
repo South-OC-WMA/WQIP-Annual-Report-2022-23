@@ -1,0 +1,23 @@
+LSPC_LU_DESC,LSPC_LU_CODE,Description,RC_Group,RC,EMC_Group
+COMM,10,Commercial,Commercial,0.49,business
+EDU,20,"Education, institutional, and municipal",Education,0.42,business
+IND,30,Light Industrial,Light Industrial,0.41,business
+UTIL,40,Utility,Commercial,0.49,business
+RESSFH,50,High density single family res (typical),Single Family Residential,0.41,single family
+RESSFL,51,"High density single family res (rural, uncommon)",Single Family Residential,0.41,single family
+RESMF,52,Multi-family residential,Multi-family Residential,0.48,multi-family
+TRANS,60,Surface streets including arterials and local roads,Streets and Roads,0.47,surface street
+TRFWY,61,Freeway,Freeway,0.45,highway/arterial
+TROTH,62,"Other transportation, primarily metrolink line, relatively minor)",Streets and Roads,0.47,surface street
+OSAGIR,70,Irrigated agriculture,Agriculture,0.22,agriculture
+OSAGNI,71,Non-irrigated agriculture,Agriculture,0.22,agriculture
+OSDEV,75,"Developed open space (e.g., slopes and other vacant land proximate to development)",Developed Open Space,0.22,developed open space
+OSIRR,76,"Irrigated open space (e.g., parks, golf courses)",Developed Open Space,0.22,developed open space
+OSLOW,77,"Undeveloped, low vegetation",Open Space,0.08,open space
+OSFOR,78,"Undeveloped, forest",Open Space,0.08,open space
+OSWET,79,"Undeveloped, wetland",Open Space,0.08,open space
+WATER,80,Water,Water,0.80,water
+OSVAC,9999,Similar to OSDEV,Developed Open Space,0.22,developed open space
+,,,,,
+,,,,,
+https://www.casqa.org/model/sbpat,,,,,

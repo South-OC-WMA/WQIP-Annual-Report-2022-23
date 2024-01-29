@@ -1,0 +1,75 @@
+'J01-9007-1:  looks ok; mean daily discharge calculated most days
+J01-9082-2:  looks ok; mean daily discharge calculated most days
+J01-9082-3:  looks ok; dry outfall; mean daily discharge calculated most days
+J01-9082-4:  mean daily discharge calculated most days; data missing 4/24 - 6/2/2023
+J01-9005-3:  *Readings from 10/1/2022 through 6/18/2023 suspect.  May be able to use 6/19/2023 through 9/8/2023.  
+J01-9364-3:  *no readings available; inspections have shown maintenance is needed to improve access, and pooled or ponded
+J04-9249-1:  **readings are all too high (app 16 cfs) and are not consistent with field visits.  Remove entire file. 
+J01-9005-1:  *Data missing from 1/3/2023 to 5/24/2023 
+J03-9216-1:  **mean daily discharge present, but does not align with field visits, which measured trickle flow. 
+J03-9234-6:  mean daily dishcharge calculated most days. looks OK.  Missing 8/11/2023 - 8/30/2023.    
+J03-9215-3:  Data missing from 5/28/2023 - to 10/1/2023.  Available mean daily discharges look ok. 
+J03-9368-1:  dry weather readings show mean daily discharge as 0; No mean daily discharges from 10/30/2022 to 2/13/2023. looks ok. very small flow observed during field inspections
+J03-9368-2:  **Mean daily discharge appears too low   
+J01-9144-1:  Mean daily discharges calculated most days.  looks ok. 
+J03-9221-1:  Mean daily discharge calculated most days looks ok.  
+J01-9144-4:  ***a lot of day with missing mean daily discharge (likely because of low flow).  Don't use for calcs. Vandalized. 
+J01-9224-1:  looks OK
+J01-9224-2:  no data (vandalized); remove data file for loading calcs
+J01-9992-1:  **mean daily discharge questionable (too high) from 5/13/2023 - 9/29/2023. Other days readings are too low.  Don't use file. 
+J01-10017-1:  *Can be affected by sediment.  Not reading in June.  May be better to move ultrasonic further back in pipe.  
+J01-10019-1: ***NO flow data. Vandalized. 
+J01-9008-1:  ***NO flow data.  Vandalized
+J01-9131-1:  looks ok; mean daily discharge calculated most days
+J05-9800-2:  always dry during dry weather;  Mean daily discharge readings of 0 from 7/31/2023 - 8/19/2023.  File OK. 
+J06-9362-1/DAIRY_FORK_MOULTON:  ***Vandalized.  No mean daily discharge readings after 1/4/2023. 
+J06-9079-1:  *Mean daily discharge not calculated from 5/18/2023 until 7/18/2023.  Many days, mean daily discharge not calculated. 
+J06-10011-1:  **SWN discharge does not align with field flow measurements.  Mean daily discharge is way too low.  Do not use file for loading calcs.  
+J01-9066-1: looks ok; mean daily discharge calculated most days. 
+J01-9066-2:  **Most days, mean daily discharge not calculated.  When available, results too high and do not align with field measurements.  Do not use file for loading calcs. 
+J01-9273-1:  No mean daily discharge from 6/30/2023 through 10/1/2023. Pressure transducer was no longer submerged during field visit in August 2023. Use mean daily discharge from 10/30/2022 - 6/30/2023.  
+J07-9109-4:  More mean daily discharge results in 2023.  Means lower than field measurments.  Do not use for loading calcs. 
+J07-9110-2:  **Mean daily discharge available 4/1/2023 to 8/2/2023.  Spotty transmission. 
+J07-9110-3:  looks ok; mean daily discharge calculated most days
+J01-9046-2: looks ok; mean daily discharge calculated most days
+J01-9349-1:  no rating table, remove file
+J01-10004-1:  looks ok; mean daily discharge calculated most days
+J01-9046-1:  looks ok; mean daily discharge calculated most days
+J01-9264-1:  **Discharge way too high; May need to adjust rating table.   remove file. 
+J01-9377-1:  **Most mean daily discharges in 2023 are not available.  15 minute flow readings - depth is too high; readings do not align with flow measurements.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

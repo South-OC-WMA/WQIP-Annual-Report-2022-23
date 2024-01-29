@@ -1,0 +1,827 @@
+FacilityID,Jurisdiction,ObsRecordDate,ObsWeather,AvgDischarge,FlowCondition,PersistentFlow,FlowConnectivity,Priority,PrioritizationScore2022,Conductivity,Inspected,FloatDischargeCFS,VolumeDischargeCFS,SampleDry,PointY,PointX
+L02-166-2 (L02P25),Rancho Santa Margarita,2022-12-12T00:00:00Z,2,0.241467,Flowing,Unknown,Undetermined,Not A Priority,NA,590,Verified,NA,NA,NA,33.63763055,-117.6178921
+L02-166-2 (L02P25),Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.241467,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63763055,-117.6178921
+L02-166-2 (L02P25),Rancho Santa Margarita,2023-06-12T00:00:00Z,1,0.241467,Flowing,Unknown,Direct Connection,Not A Priority,NA,1693,Verified,NA,0.035,NA,33.63763055,-117.6178921
+L02-166-2 (L02P25),Rancho Santa Margarita,2022-11-23T00:00:00Z,1,0.241467,Flowing,Unknown,Undetermined,Not A Priority,NA,NA,Verified,0.21,0.044,NA,33.63763055,-117.6178921
+L03-708-9,Laguna Niguel,2023-06-27T00:00:00Z,1,0.048275,Flowing,Yes,Direct Connection,Priority,53,4742,Verified,0.087413,NA,NA,33.56260598,-117.67595162
+L03-708-9,Laguna Niguel,2023-09-01T00:00:00Z,1,0.048275,Flowing,Yes,Direct Connection,Priority,53,1850,Verified,0.053774,NA,NA,33.56260598,-117.67595162
+J01-10004-2,Lake Forest,2023-09-26T00:00:00Z,1,7.54e-4,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63406841,-117.6746996
+J01-10004-2,Lake Forest,2023-05-16T00:00:00Z,1,7.54e-4,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63406841,-117.6746996
+DP06-12106-1,Dana Point,2023-06-15T00:00:00Z,1,0.331812,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46389565,-117.68841095
+DP06-12106-1,Dana Point,2023-09-08T00:00:00Z,1,0.331812,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,7458,Verified,0.64625,NA,NA,33.46389565,-117.68841095
+M01-124-4,San Clemente,2023-05-23T00:00:00Z,1,6e-4,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.46509434,-117.6391214
+M01-124-4,San Clemente,2023-08-01T00:00:00Z,1,6e-4,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.46509434,-117.6391214
+L01-749-2d,San Juan Capistrano,2023-06-08T00:00:00Z,1,0.081752,NA,Yes,NA,NA,NA,NA,Verified,NA,NA,NA,33.50766038,-117.64028598
+L01-749-2d,San Juan Capistrano,2023-08-16T00:00:00Z,1,0.081752,Pooled or Ponded,Yes,NA,NA,NA,NA,Verified,NA,NA,NA,33.50766038,-117.64028598
+M02-086-1,San Clemente,2023-05-23T00:00:00Z,1,3.71e-4,Other - See Comments,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47727634,-117.59994514
+M02-086-1,San Clemente,2023-08-01T00:00:00Z,1,3.71e-4,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47727634,-117.59994514
+K01-12155-5,Laguna Niguel,2023-06-28T00:00:00Z,1,0.061386,Flowing,Unknown,Undetermined,Not A Priority,NA,2264,Verified,0.146939,NA,NA,33.50234645,-117.72005298
+K01-12155-5,Laguna Niguel,2023-08-30T00:00:00Z,1,0.061386,Flowing,Unknown,Direct Connection,Not A Priority,NA,1221,Verified,0.019934,NA,NA,33.50234645,-117.72005298
+K01-12156-3,Laguna Niguel,2023-06-19T00:00:00Z,1,0,Pooled or Ponded,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50412766,-117.70947404
+K01-12156-3,Laguna Niguel,2023-08-31T00:00:00Z,1,0,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50412766,-117.70947404
+J01-9066-2 (J01P03),Mission Viejo,2023-08-17T00:00:00Z,1,0.083379,Flowing,Yes,Direct Connection,Priority,64,2370,Verified,0.019033,0.02,NA,33.61059435,-117.69276829
+J01-9066-2 (J01P03),Mission Viejo,2023-07-05T00:00:00Z,1,0.083379,Flowing,Yes,Direct Connection,Priority,64,3755,Verified,NA,0.024,NA,33.61059435,-117.69276829
+J01-9066-2 (J01P03),Mission Viejo,2023-04-25T00:00:00Z,1,0.083379,Flowing,Yes,NA,Priority,64,NA,Verified,0.014375,0.042,NA,33.61059435,-117.69276829
+J01-10006-1,Lake Forest,2023-07-17T00:00:00Z,1,0,Pooled or Ponded,Yes,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62836754,-117.68367057
+J01-10006-1,Lake Forest,2023-09-25T00:00:00Z,1,0,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62836754,-117.68367057
+L01-766-8,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49262805,-117.66235245
+L01-766-8,San Juan Capistrano,2023-08-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49262805,-117.66235245
+L01-727-3,Dana Point,2023-09-06T00:00:00Z,1,0.007959,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47155114,-117.68013751
+L01-727-3,Dana Point,2023-05-15T00:00:00Z,1,0.007959,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,1024,Verified,NA,NA,NA,33.47155114,-117.68013751
+L03-172-2,Mission Viejo,2023-07-17T00:00:00Z,1,0.013291,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65145815,-117.63884529
+L03-172-2,Mission Viejo,2023-08-28T00:00:00Z,1,0.013291,Flowing,Yes,Undetermined,Not A Priority,NA,842,Verified,NA,NA,NA,33.65145815,-117.63884529
+L01-749-3,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Flowing,Unknown,NA,Not A Priority,NA,NA,Verified,NA,0.003,NA,33.50819651,-117.6389212
+L01-749-3,San Juan Capistrano,2023-08-09T00:00:00Z,1,0,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50819651,-117.6389212
+L01-340-1,Orange Co,2023-06-27T00:00:00Z,1,0.051357,Flowing,Yes,Unsafe to Access,Priority,39,2569,Verified,0.026406,NA,Yes,33.58696205,-117.59544022
+L01-340-1,Orange Co,2023-08-15T00:00:00Z,1,0.051357,Flowing,Yes,Direct Connection,Priority,39,1626,Verified,0.048,0.016,Yes,33.58696205,-117.59544022
+DP01-12022-2,Dana Point,2023-09-12T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.466503,-117.716091
+DP01-12022-2,Dana Point,2023-06-15T00:00:00Z,1,0,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.466503,-117.716091
+M02-015-1,San Clemente,2023-05-24T00:00:00Z,1,0.020964,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47815722,-117.58324573
+M02-015-1,San Clemente,2023-09-01T00:00:00Z,1,0.020964,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47815722,-117.58324573
+I01-11077-1,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56321823,-117.76799437
+I01-11077-1,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56321823,-117.76799437
+J07-9022-6,Mission Viejo,2023-08-28T00:00:00Z,1,0.001776,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.628759,-117.66624
+J07-9022-6,Mission Viejo,2023-07-27T00:00:00Z,1,0.001776,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.628759,-117.66624
+L01-733-4,Orange Co,2023-05-31T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62235401,-117.57672575
+L01-733-4,Orange Co,2023-08-15T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62235401,-117.57672575
+I01-11023-1,Laguna Beach,2023-06-07T00:00:00Z,1,0.002155,Other - See Comments,Unknown,Partial - Significant Distance,Priority,43,NA,Verified,NA,NA,Yes,33.54963669,-117.78032617
+I01-11023-1,Laguna Beach,2023-07-07T00:00:00Z,1,0.002155,Other - See Comments,Unknown,Partial - Significant Distance,Priority,43,NA,Verified,NA,NA,Yes,33.54963669,-117.78032617
+M02-142-1,San Clemente,2023-09-01T00:00:00Z,1,0,NA,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Removed From Inventory,NA,NA,NA,33.43629495,-117.62411754
+M02-142-1,San Clemente,2023-05-24T00:00:00Z,1,0,NA,Unknown,NA,Not A Priority,NA,NA,Removed From Inventory,NA,NA,NA,33.43629495,-117.62411754
+K01-12155-1,Laguna Niguel,2023-08-30T00:00:00Z,1,4.4e-4,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49919589,-117.72022028
+K01-12155-1,Laguna Niguel,2023-06-28T00:00:00Z,2,4.4e-4,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,822,Verified,NA,NA,NA,33.49919589,-117.72022028
+L03-455-3 (L03P37),San Juan Capistrano,2023-08-31T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53870259,-117.67558208
+L03-455-3 (L03P37),San Juan Capistrano,2023-06-29T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53870259,-117.67558208
+L03-693-1 (L03P11),Mission Viejo,2023-05-18T00:00:00Z,1,0.114855,Flowing,Yes,Direct Connection,Priority,55,4180,Verified,0.532895,0.032,NA,33.59775734,-117.65573521
+L03-693-1 (L03P11),Mission Viejo,2023-08-02T00:00:00Z,1,0.114855,Flowing,Yes,Direct Connection,Priority,55,3890,Verified,0.112,0.038,NA,33.59775734,-117.65573521
+L03-693-1 (L03P11),Mission Viejo,2022-11-21T00:00:00Z,1,0.114855,Flowing,Yes,Direct Connection,Priority,55,2957,Verified,0.043158,NA,NA,33.59775734,-117.65573521
+J01-9259-3,Lake Forest,2023-09-25T00:00:00Z,1,0.00601,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62434247,-117.68995504
+J01-9259-3,Lake Forest,2023-07-17T00:00:00Z,1,0.00601,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,1630,Verified,NA,NA,NA,33.62434247,-117.68995504
+SC09-081-2d,San Clemente,2023-09-14T00:00:00Z,1,0.075564,Flowing,Unknown,Direct Connection,NA,NA,11000,Verified,0.1008,0.031,NA,33.43542826,-117.63778634
+SC09-081-2d,San Clemente,2023-09-07T00:00:00Z,1,0.075564,Flowing,Unknown,Direct Connection,NA,NA,9121,Verified,0.123457,NA,NA,33.43542826,-117.63778634
+L02-344-2,Orange Co,2023-08-17T00:00:00Z,1,0.408144,Pooled or Ponded,Yes,NA,NA,NA,NA,Verified,NA,NA,NA,33.59189214,-117.62860278
+L02-344-2,Orange Co,2023-06-01T00:00:00Z,1,0.408144,Pooled or Ponded,Yes,Unsafe to Access,NA,NA,NA,Verified,NA,NA,NA,33.59189214,-117.62860278
+M02-052-3,San Clemente,2023-06-15T00:00:00Z,1,0.100222,Flowing,Yes,Direct Connection,Priority,48,6171,Verified,0.028889,NA,NA,33.45125039,-117.60979324
+K01-12032-2 (K01P11),Laguna Niguel,2023-06-28T00:00:00Z,1,0.095233,Flowing,Yes,Undetermined,Priority,58,1920,Verified,0.412639,NA,NA,33.51685546,-117.71775833
+K01-12032-2 (K01P11),Laguna Niguel,2023-08-30T00:00:00Z,1,0.095233,Flowing,Yes,Direct Connection,Priority,58,2140,Verified,0.053154,NA,NA,33.51685546,-117.71775833
+K01-12032-2 (K01P11),Laguna Niguel,2023-06-28T00:00:00Z,1,0.095233,Flowing,Yes,Undetermined,Priority,58,2006,Verified,0.260204,NA,NA,33.51685546,-117.71775833
+L01-517-6,Orange Co,2023-08-14T00:00:00Z,1,0.02934,Other - See Comments,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.52411358,-117.61898895
+L01-517-6,Orange Co,2023-05-30T00:00:00Z,1,0.02934,NA,Unknown,Undetermined,NA,NA,NA,Verified,NA,NA,NA,33.52411358,-117.61898895
+L01-517-2,San Juan Capistrano,2023-08-09T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.51860298,-117.62572076
+L01-517-2,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.51860298,-117.62572076
+J05-9255-1 (J05P01),Laguna Hills,2023-09-27T00:00:00Z,1,0,NA,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.584603,-117.706386
+J05-9255-1 (J05P01),Laguna Hills,2023-07-27T00:00:00Z,1,0,NA,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.584603,-117.706386
+J05-9255-1 (J05P01),Laguna Hills,2023-08-17T00:00:00Z,1,0,NA,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.584603,-117.706386
+J07-9110-2,Mission Viejo,2023-08-28T00:00:00Z,1,0.012035,Flowing,Yes,Direct Connection,Priority,45,NA,Verified,NA,NA,NA,33.6360887,-117.66225214
+J07-9110-2,Mission Viejo,2023-07-17T00:00:00Z,1,0.012035,Pooled or Ponded,Yes,Direct Connection,Priority,45,1417,Verified,NA,0,NA,33.6360887,-117.66225214
+J07-9110-2,Mission Viejo,2023-04-26T00:00:00Z,1,0.012035,Flowing,Yes,NA,Priority,45,NA,Verified,0.125,NA,NA,33.6360887,-117.66225214
+J01-9992-1 (J01P27),Aliso Viejo,2023-06-21T00:00:00Z,1,0.165159,Flowing,Yes,Direct Connection,Priority,66,6246,Verified,0.046151,0.015,Yes,33.57325594,-117.71661229
+J01-9992-1 (J01P27),Aliso Viejo,2023-04-26T00:00:00Z,1,0.165159,Flowing,Yes,NA,Priority,66,NA,Verified,0.197321,0.023,Yes,33.57325594,-117.71661229
+J01-9992-1 (J01P27),Aliso Viejo,2022-11-08T00:00:00Z,2,0.165159,Flowing,Yes,Direct Connection,Priority,66,425,Verified,NA,NA,Yes,33.57325594,-117.71661229
+J01-9992-1 (J01P27),Aliso Viejo,2022-11-03T00:00:00Z,1,0.165159,Flowing,Yes,Direct Connection,Priority,66,3731,Verified,0.0416,NA,Yes,33.57325594,-117.71661229
+J01-9992-1 (J01P27),Aliso Viejo,2022-11-08T00:00:00Z,2,0.165159,Flowing,Yes,Direct Connection,Priority,66,1161,Verified,0.39,NA,Yes,33.57325594,-117.71661229
+J01-9992-1 (J01P27),Aliso Viejo,2022-11-09T00:00:00Z,2,0.165159,Flowing,Yes,Direct Connection,Priority,66,2739,Verified,0.066991,NA,Yes,33.57325594,-117.71661229
+J01-9992-1 (J01P27),Aliso Viejo,2023-09-06T00:00:00Z,1,0.165159,Flowing,Yes,Direct Connection,Priority,66,4082,Verified,0.087591,NA,Yes,33.57325594,-117.71661229
+J01-9992-1 (J01P27),Aliso Viejo,2023-09-27T00:00:00Z,1,0.165159,Flowing,Yes,Partial - Significant Distance,Priority,66,4015,Verified,NA,NA,Yes,33.57325594,-117.71661229
+SC11-130-2,Dana Point,2023-08-03T00:00:00Z,1,0.013885,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.455718,-117.669171
+SC11-130-2,Dana Point,2023-05-25T00:00:00Z,1,0.013885,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.455718,-117.669171
+L01-125-2,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,0.021,Flowing,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65543421,-117.55926841
+L01-125-2,Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.021,Flowing,Yes,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65543421,-117.55926841
+K01-12062-1,Laguna Niguel,2023-08-31T00:00:00Z,1,0.122807,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50914725,-117.69068155
+K01-12062-1,Laguna Niguel,2023-06-30T00:00:00Z,1,0.122807,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50914725,-117.69068155
+L01-748-2,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,NA,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50406011,-117.64281522
+L01-748-2,San Juan Capistrano,2023-08-09T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50406011,-117.64281522
+L01-748-2,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50406011,-117.64281522
+L01-618-2,San Juan Capistrano,2023-06-05T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,5744,Verified,NA,NA,NA,33.50048772,-117.65036582
+L01-618-2,San Juan Capistrano,2023-08-07T00:00:00Z,1,NA,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50048772,-117.65036582
+I01-11015-3,Laguna Beach,2023-09-20T00:00:00Z,1,9.06e-4,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54793033,-117.78154643
+I01-11015-3,Laguna Beach,2023-07-07T00:00:00Z,1,9.06e-4,Flowing,Unknown,Direct Connection,Not A Priority,NA,356,Verified,0.010879,NA,NA,33.54793033,-117.78154643
+L01-749-2,San Juan Capistrano,2023-06-08T00:00:00Z,1,0.077331,Pooled or Ponded,Yes,Direct Connection,Priority,10,NA,Verified,NA,NA,Yes,33.5083054,-117.64017859
+L01-749-2,San Juan Capistrano,2023-08-16T00:00:00Z,1,0.077331,Pooled or Ponded,Yes,Undetermined,Priority,10,NA,Verified,NA,NA,Yes,33.5083054,-117.64017859
+I01-11059-3,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55369586,-117.77534812
+I01-11059-3,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55369586,-117.77534812
+I01-11216-3,Aliso Viejo,2023-09-26T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59871601,-117.74706413
+I01-11216-3,Aliso Viejo,2023-07-20T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,2550,Verified,NA,NA,NA,33.59871601,-117.74706413
+L01-618-5 (L01S09),San Juan Capistrano,2023-05-19T00:00:00Z,1,0.180631,Flowing,Yes,Direct Connection,Not A Priority,NA,8200,Verified,1.411765,NA,NA,33.501988,-117.64812
+L01-618-5 (L01S09),San Juan Capistrano,2023-08-09T00:00:00Z,1,0.180631,Flowing,Yes,Direct Connection,Not A Priority,NA,61680,Verified,0.568421,NA,NA,33.501988,-117.64812
+L01-303-4,Orange Co,2023-08-15T00:00:00Z,1,0.020775,NA,Unknown,NA,Priority,47,NA,Verified,NA,NA,NA,33.596022,-117.584659
+L01-303-4,Orange Co,2023-05-31T00:00:00Z,1,0.020775,Other - See Comments,Unknown,NA,Priority,47,NA,Verified,NA,NA,NA,33.596022,-117.584659
+L01-303-2,Orange Co,2023-08-15T00:00:00Z,1,0.07,NA,Yes,NA,Priority,48,NA,Verified,NA,NA,NA,33.59293399,-117.58507153
+L01-303-2,Orange Co,2023-05-31T00:00:00Z,1,0.07,Pooled or Ponded,Yes,Direct Connection,Priority,48,NA,Verified,NA,NA,NA,33.59293399,-117.58507153
+L01-218-1,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63184411,-117.56329544
+M01-042-1 (M01S01),San Clemente,2023-09-08T00:00:00Z,1,0.013196,Flowing,Yes,Direct Connection,Priority,54,NA,Verified,0.003246,NA,Yes,33.45444672,-117.62344422
+M01-042-1 (M01S01),San Clemente,2023-08-30T00:00:00Z,1,0.013196,Flowing,Yes,Direct Connection,Priority,54,19294,Verified,0.005,0.002,Yes,33.45444672,-117.62344422
+M01-042-1 (M01S01),San Clemente,2023-06-15T00:00:00Z,1,0.013196,Flowing,Yes,Undetermined,Priority,54,27498,Verified,0.005769,0.002,Yes,33.45444672,-117.62344422
+J01-9082-2,Aliso Viejo,2023-09-06T00:00:00Z,1,0.170103,Flowing,Yes,Direct Connection,Priority,57,1240,Verified,0.153191,NA,Yes,33.5815891,-117.74576013
+J01-9082-2,Aliso Viejo,2023-04-27T00:00:00Z,1,0.170103,Flowing,Yes,NA,Priority,57,NA,Verified,0.872354,0.017,Yes,33.5815891,-117.74576013
+J01-9082-2,Aliso Viejo,2023-08-09T00:00:00Z,1,0.170103,Flowing,Yes,Partial - Significant Distance,Priority,57,972,Verified,0.105,NA,Yes,33.5815891,-117.74576013
+J01-9082-2,Aliso Viejo,2023-05-30T00:00:00Z,1,0.170103,Flowing,Yes,Undetermined,Priority,57,1204,Verified,NA,NA,Yes,33.5815891,-117.74576013
+L01-726-6,Dana Point,2023-06-06T00:00:00Z,1,0,Dry,Unknown,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47619715,-117.67924614
+L01-726-6,Dana Point,2023-08-08T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47619715,-117.67924614
+J01-9082-3,Aliso Viejo,2023-08-09T00:00:00Z,1,0.005053,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58158523,-117.74573687
+J01-9082-3,Aliso Viejo,2023-04-27T00:00:00Z,1,0.005053,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58158523,-117.74573687
+J01-9082-3,Aliso Viejo,2023-05-30T00:00:00Z,1,0.005053,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58158523,-117.74573687
+L01-218-4,Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.026115,Flowing,Yes,Direct Connection,Priority,48,2504,Verified,0.059063,NA,NA,33.63861941,-117.5692492
+L01-218-4,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,0.026115,Flowing,Yes,Direct Connection,Priority,48,2623,Verified,NA,0.01,NA,33.63861941,-117.5692492
+L01-391-3,Orange Co,2023-05-31T00:00:00Z,1,0.012479,Pooled or Ponded,Unknown,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57839188,-117.58682518
+L01-391-3,Orange Co,2023-08-15T00:00:00Z,1,0.012479,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57839188,-117.58682518
+J01-9275-1,Lake Forest,2023-07-27T00:00:00Z,1,0.003,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.64907787,-117.66135278
+J01-9275-1,Lake Forest,2023-08-29T00:00:00Z,1,0.003,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.64907787,-117.66135278
+J07-9109-4 (J07P02),Mission Viejo,2023-07-25T00:00:00Z,1,0.181584,Flowing,Yes,NA,Priority,54,1938,Verified,NA,NA,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2023-08-08T00:00:00Z,1,0.181584,Flowing,Yes,Undetermined,Priority,54,NA,Verified,0.107263,NA,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2023-07-18T00:00:00Z,1,0.181584,Flowing,Yes,Direct Connection,Priority,54,1937,Verified,0.044444,0.016,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2022-11-08T00:00:00Z,1,0.181584,Flowing,Yes,Direct Connection,Priority,54,85,Verified,NA,NA,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2023-05-22T00:00:00Z,1,0.181584,Flowing,Yes,NA,Priority,54,NA,Verified,0.092221,NA,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2023-07-11T00:00:00Z,1,0.181584,Flowing,Yes,Direct Connection,Priority,54,1614,Verified,0.027883,0.026,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2023-08-01T00:00:00Z,1,0.181584,Flowing,Yes,Direct Connection,Priority,54,1343,Verified,0.055618,NA,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2022-11-03T00:00:00Z,1,0.181584,Flowing,Yes,Direct Connection,Priority,54,2189,Verified,0.012,NA,NA,33.64644918,-117.65579732
+J07-9109-4 (J07P02),Mission Viejo,2022-11-09T00:00:00Z,2,0.181584,Flowing,Yes,Direct Connection,Priority,54,1718,Verified,0.6513,NA,NA,33.64644918,-117.65579732
+L03-708-11 (L03P05),Laguna Niguel,2023-08-17T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,4560,Verified,0.091837,0.023,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-17T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,4560,Verified,0.091837,0.064,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-17T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,2192,Verified,0.105943,0.023,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-17T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,2192,Verified,0.105943,0.064,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-09-01T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,2045,Verified,0.216867,NA,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-02-16T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,3861,Verified,0.081,NA,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-17T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,2502,Verified,0.114545,0.023,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-17T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,2502,Verified,0.114545,0.064,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-06-27T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,3946,Verified,0.307895,NA,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-18T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,3522,Verified,0.095,0.012,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-18T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,3522,Verified,0.095,0.037,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2022-12-08T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,2907,Verified,0.048,NA,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-18T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,6009,Verified,0.06281,0.012,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2023-08-18T00:00:00Z,1,0.133895,Flowing,Yes,Direct Connection,Priority,48,6009,Verified,0.06281,0.037,NA,33.56274915,-117.67587321
+L03-708-11 (L03P05),Laguna Niguel,2022-12-12T00:00:00Z,2,0.133895,Flowing,Yes,Direct Connection,Priority,48,1840,Verified,1.2,NA,NA,33.56274915,-117.67587321
+I01-11503-5,Aliso Viejo,2023-07-20T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,NA,NA,816,Verified,NA,NA,NA,33.59354235,-117.74952217
+I01-11503-5,Aliso Viejo,2023-09-26T00:00:00Z,1,NA,Pooled or Ponded,Yes,NA,NA,NA,NA,Verified,NA,NA,NA,33.59354235,-117.74952217
+M02-061-5,San Clemente,2023-09-01T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.43438104,-117.62639763
+M02-061-5,San Clemente,2023-05-24T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.43438104,-117.62639763
+L01-404-1,Orange Co,2023-08-15T00:00:00Z,1,0.0852,Flowing,Yes,Undetermined,Priority,60,1954,Verified,0.092647,0.048,Yes,33.56452183,-117.58584662
+L01-404-1,Orange Co,2023-06-27T00:00:00Z,1,0.0852,Flowing,Yes,Undetermined,Priority,60,2917,Verified,0.087449,0.039,Yes,33.56452183,-117.58584662
+M01-168-2d (M00P03),Dana Point,2023-08-03T00:00:00Z,1,NA,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.44456111,-117.65058197
+M01-168-2d (M00P03),Dana Point,2023-05-25T00:00:00Z,1,NA,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.44456111,-117.65058197
+L01-517-1,San Juan Capistrano,2023-08-09T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.518669010000004,-117.62568193
+L01-517-1,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.518669010000004,-117.62568193
+M01-050-7,San Clemente,2023-08-02T00:00:00Z,1,4e-6,Other - See Comments,Unknown,Direct Connection,NA,NA,750,Verified,NA,NA,NA,33.44303405,-117.64379412
+M01-050-7,San Clemente,2023-05-23T00:00:00Z,1,4e-6,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.44303405,-117.64379412
+L05-489-3,Orange Co,2023-08-16T00:00:00Z,1,0.807645,Flowing,Yes,Direct Connection,Priority,90,2485,Verified,1.1151,0.309,Yes,33.52980214,-117.6465378
+L05-489-3,Orange Co,2023-06-27T00:00:00Z,1,0.807645,Flowing,Yes,Direct Connection,Priority,90,2739,Verified,0.59083,0.38,Yes,33.52980214,-117.6465378
+I01-11059-1,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55357149,-117.77550892
+I01-11059-1,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55357149,-117.77550892
+L02-502-6,San Juan Capistrano,2023-06-29T00:00:00Z,1,NA,Other - See Comments,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53046796,-117.66923072
+L02-502-6,San Juan Capistrano,2023-08-31T00:00:00Z,1,NA,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53046796,-117.66923072
+J01-9046-3,Lake Forest,2023-07-27T00:00:00Z,1,0.004993,Flowing,Yes,Partial - Significant Distance,Not A Priority,NA,928,Verified,0.024,NA,NA,33.65614256,-117.65941801
+M02-061-4 (SCBS@M02),San Clemente,2023-09-01T00:00:00Z,1,0.016817,Flowing,Yes,NA,Priority,45,1782,Verified,0.037667,NA,NA,33.43367715,-117.62725703
+M02-061-4 (SCBS@M02),San Clemente,2023-05-24T00:00:00Z,1,0.016817,Flowing,Yes,Direct Connection,Priority,45,18010,Verified,0.015339,NA,NA,33.43367715,-117.62725703
+K01-12058-2 (K01P09),Laguna Niguel,2023-02-22T00:00:00Z,1,0.12576,Flowing,Yes,Undetermined,Priority,64,4965,Verified,0.243478,NA,NA,33.51125335,-117.69460127
+K01-12058-2 (K01P09),Laguna Niguel,2023-08-08T00:00:00Z,1,0.12576,Flowing,Yes,Direct Connection,Priority,64,4213,Verified,0.105,0.045,NA,33.51125335,-117.69460127
+K01-12058-2 (K01P09),Laguna Niguel,2023-06-30T00:00:00Z,1,0.12576,Flowing,Yes,NA,Priority,64,4436,Verified,0.054969,NA,NA,33.51125335,-117.69460127
+K01-12058-2 (K01P09),Laguna Niguel,2023-08-01T00:00:00Z,1,0.12576,Flowing,Yes,Direct Connection,Priority,64,6126,Verified,0.106729,0.051,NA,33.51125335,-117.69460127
+K01-12058-2 (K01P09),Laguna Niguel,2023-07-11T00:00:00Z,1,0.12576,Flowing,Yes,Direct Connection,Priority,64,5672,Verified,0.142657,0.066,NA,33.51125335,-117.69460127
+K01-12058-2 (K01P09),Laguna Niguel,2023-08-31T00:00:00Z,1,0.12576,Flowing,Yes,Direct Connection,Priority,64,NA,Verified,NA,NA,NA,33.51125335,-117.69460127
+K01-12058-2 (K01P09),Laguna Niguel,2023-07-25T00:00:00Z,1,0.12576,Flowing,Yes,Direct Connection,Priority,64,6160,Verified,0.049315,0.045,NA,33.51125335,-117.69460127
+I01-11502-1,Aliso Viejo,2023-09-26T00:00:00Z,1,NA,Pooled or Ponded,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59564552,-117.74848887
+I01-11502-1,Aliso Viejo,2023-07-20T00:00:00Z,1,NA,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59564552,-117.74848887
+M02-102-1,San Clemente,2023-09-07T00:00:00Z,1,0.044,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.43161834,-117.63272479
+M02-102-1,San Clemente,2023-09-14T00:00:00Z,1,0.044,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.43161834,-117.63272479
+M02-102-1,San Clemente,2023-06-15T00:00:00Z,1,0.044,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.43161834,-117.63272479
+J01-9005-1 (J03P05),Laguna Niguel,2023-06-29T00:00:00Z,1,0.034405,Flowing,Yes,Direct Connection,Priority,57,5496,Verified,0.04,NA,NA,33.53991146,-117.70417019
+J01-9005-1 (J03P05),Laguna Niguel,2023-04-26T00:00:00Z,1,0.034405,Flowing,Yes,NA,Priority,57,NA,Verified,0.043334,NA,NA,33.53991146,-117.70417019
+J01-9005-1 (J03P05),Laguna Niguel,2023-08-28T00:00:00Z,1,0.034405,Flowing,Yes,Direct Connection,Priority,57,NA,Verified,NA,NA,NA,33.53991146,-117.70417019
+J03-9216-2,Laguna Niguel,2023-03-31T00:00:00Z,1,1.560945,Flowing,Yes,Undetermined,Priority,74,4201,Verified,3.033708,NA,NA,33.5280069,-117.71007663
+J03-9216-2,Laguna Niguel,2023-07-19T00:00:00Z,1,1.560945,Flowing,Yes,Partial - Significant Distance,Priority,74,6089,Verified,0.397275,NA,NA,33.5280069,-117.71007663
+J03-9216-2,Laguna Niguel,2023-06-27T00:00:00Z,1,1.560945,Flowing,Yes,Partial - Significant Distance,Priority,74,NA,Verified,NA,NA,NA,33.5280069,-117.71007663
+J03-9216-2,Laguna Niguel,2022-12-12T00:00:00Z,2,1.560945,Flowing,Yes,Undetermined,Priority,74,1587,Verified,2.7,NA,NA,33.5280069,-117.71007663
+J03-9216-2,Laguna Niguel,2022-12-08T00:00:00Z,1,1.560945,Flowing,Yes,Undetermined,Priority,74,3724,Verified,0.252,NA,NA,33.5280069,-117.71007663
+J03-9216-2,Laguna Niguel,2023-09-01T00:00:00Z,1,1.560945,Flowing,Yes,Partial - Significant Distance,Priority,74,4050,Verified,4.473214,NA,NA,33.5280069,-117.71007663
+I01-11216-4 (I02P14),Aliso Viejo,2023-09-26T00:00:00Z,1,NA,Pooled or Ponded,Yes,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59823241,-117.74621115
+M01-168-1d (M00P03),Dana Point,2023-05-25T00:00:00Z,1,0,Flowing,Unknown,Direct Connection,NA,NA,10860,Verified,NA,NA,NA,33.44539958,-117.65162851
+M01-168-1d (M00P03),Dana Point,2023-08-03T00:00:00Z,1,0,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.44539958,-117.65162851
+SC11-035-3d,Dana Point,2023-08-03T00:00:00Z,1,0,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.45703154,-117.67112163
+SC11-035-3d,Dana Point,2023-05-25T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.45703154,-117.67112163
+DP04-12015-1,Laguna Beach,2023-08-14T00:00:00Z,1,0.010065,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,3410,Verified,NA,0.008,NA,33.50464905,-117.74744766
+DP04-12015-1,Laguna Beach,2023-07-06T00:00:00Z,1,0.010065,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50464905,-117.74744766
+I01-11077-2,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56314232,-117.7678685
+I01-11077-2,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56314232,-117.7678685
+L02-198-1 (L02P29),Rancho Santa Margarita,2023-06-12T00:00:00Z,1,0.009971,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,43,NA,Verified,NA,NA,NA,33.6089755,-117.62622119
+L02-198-1 (L02P29),Rancho Santa Margarita,2023-08-11T00:00:00Z,1,0.009971,Flowing,Yes,Direct Connection,Priority,43,1502,Verified,0.016457,NA,NA,33.6089755,-117.62622119
+L01-727-2,Dana Point,2023-09-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47419329,-117.67973409
+L01-727-2,Dana Point,2023-05-09T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47419329,-117.67973409
+L04-136-1u (L04P07),Mission Viejo,2023-09-28T00:00:00Z,1,0.228296,Flowing,Yes,Partial - Significant Distance,Not A Priority,NA,3839,Verified,NA,NA,NA,33.6084557,-117.67902299000001
+L04-136-1u (L04P07),Mission Viejo,2023-05-18T00:00:00Z,1,0.228296,Flowing,Yes,Undetermined,Not A Priority,NA,5273,Verified,NA,NA,NA,33.6084557,-117.67902299000001
+L03-662-1,Mission Viejo,2023-07-13T00:00:00Z,1,0.022101,Flowing,Yes,Direct Connection,Not A Priority,NA,1789,Verified,0.01776,0.008,NA,33.61812771,-117.65020187
+L03-662-1,Mission Viejo,2023-09-25T00:00:00Z,1,0.022101,Flowing,Yes,Direct Connection,Not A Priority,NA,2490,Verified,0.018,0.004,NA,33.61812771,-117.65020187
+M01-124-2,San Clemente,2023-05-23T00:00:00Z,1,0.017809,Flowing,Yes,Direct Connection,Priority,48,11320,Verified,0.006641,NA,NA,33.45679407,-117.64220634
+M01-124-2,San Clemente,2023-08-01T00:00:00Z,1,0.017809,Flowing,Yes,Direct Connection,Priority,48,7106,Verified,NA,NA,NA,33.45679407,-117.64220634
+M01-008-1,San Clemente,2023-08-01T00:00:00Z,1,0,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.477835,-117.627728
+M01-008-1,San Clemente,2023-05-23T00:00:00Z,1,0,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.477835,-117.627728
+J05-9800-2,Laguna Hills,2023-07-27T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58919536,-117.70159449
+J05-9800-2,Laguna Hills,2023-09-27T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58919536,-117.70159449
+L03-240-1 (L03P14),Mission Viejo,2023-07-13T00:00:00Z,1,0.025068,Flowing,Yes,Direct Connection,Priority,46,2100,Verified,0.007523,0.004,NA,33.61519068,-117.63707703
+L03-240-1 (L03P14),Mission Viejo,2023-09-26T00:00:00Z,1,0.025068,Flowing,Yes,Direct Connection,Priority,46,1414,Verified,0.123664,0.024,NA,33.61519068,-117.63707703
+J03-9221-1 (J03P02),Laguna Niguel,2023-08-08T00:00:00Z,1,0.242793,Flowing,Yes,Undetermined,Priority,47,4291,Verified,0.36824,0.187,Yes,33.54994727,-117.71717116
+J03-9221-1 (J03P02),Laguna Niguel,2023-05-23T00:00:00Z,1,0.242793,Flowing,Yes,Undetermined,Priority,47,5930,Verified,0.384,NA,Yes,33.54994727,-117.71717116
+J03-9221-1 (J03P02),Laguna Niguel,2023-04-27T00:00:00Z,1,0.242793,Flowing,Yes,NA,Priority,47,NA,Verified,0.443573,0.141,Yes,33.54994727,-117.71717116
+J03-9216-1 (J03P01),Laguna Niguel,2023-09-01T00:00:00Z,1,0.012897,Pooled or Ponded,Unknown,Undetermined,Priority,43,NA,Verified,NA,NA,NA,33.5307754,-117.70824728
+J03-9216-1 (J03P01),Laguna Niguel,2023-06-27T00:00:00Z,1,0.012897,Dry,Unknown,NA,Priority,43,NA,Verified,NA,NA,NA,33.5307754,-117.70824728
+L05-049-1,Orange Co,2023-06-27T00:00:00Z,1,0.996847,Flowing,Yes,Direct Connection,Priority,65,2430,Verified,0.213953,0.128,Yes,33.53474971,-117.64618912
+L05-049-1,Orange Co,2023-08-16T00:00:00Z,1,0.996847,Flowing,Yes,Direct Connection,Priority,65,2264,Verified,0.220708,0.116,Yes,33.53474971,-117.64618912
+L05-049-1,Orange Co,2022-12-12T00:00:00Z,2,0.996847,Flowing,Yes,NA,Priority,65,882,Verified,16.8,NA,Yes,33.53474971,-117.64618912
+L05-049-1,Orange Co,2022-12-08T00:00:00Z,1,0.996847,Flowing,Yes,Direct Connection,Priority,65,3521,Verified,0.14,NA,Yes,33.53474971,-117.64618912
+L01-726-3,Dana Point,2023-08-08T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47522955,-117.67881868
+L01-726-3,Dana Point,2023-06-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47522955,-117.67881868
+L03-172-3,Mission Viejo,2023-08-28T00:00:00Z,1,NA,Pooled or Ponded,Yes,NA,NA,NA,NA,Verified,NA,NA,NA,33.65111943,-117.6375105
+L03-172-3,Mission Viejo,2023-07-17T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,NA,NA,NA,Verified,NA,NA,NA,33.65111943,-117.6375105
+I01-11023-3,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55073178,-117.77891633
+I01-11023-3,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55073178,-117.77891633
+L02-374-2 (MVL02P20),Orange Co,2023-08-17T00:00:00Z,1,0.008624,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57276685,-117.64558911
+L02-374-2 (MVL02P20),Orange Co,2023-06-01T00:00:00Z,1,0.008624,Dry,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57276685,-117.64558911
+L03-455-5,Laguna Niguel,2023-06-29T00:00:00Z,1,0.006815,Flowing,Unknown,Direct Connection,Priority,41,9030,Verified,NA,NA,NA,33.54240864,-117.67505347
+L03-455-5,Laguna Niguel,2023-08-31T00:00:00Z,1,0.006815,Other - See Comments,Unknown,Direct Connection,Priority,41,5260,Verified,NA,NA,NA,33.54240864,-117.67505347
+SC02-072-4,San Clemente,2023-08-03T00:00:00Z,1,NA,NA,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.399938,-117.60114
+SC02-072-4,San Clemente,2023-05-24T00:00:00Z,1,NA,Other - See Comments,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.399938,-117.60114
+J01-9082-4,Aliso Viejo,2023-08-09T00:00:00Z,1,0.023004,Flowing,Yes,NA,Priority,35,2702,Verified,0.015845,0.008,NA,33.58157074,-117.74572664
+J01-9082-4,Aliso Viejo,2023-04-27T00:00:00Z,1,0.023004,Flowing,Yes,NA,Priority,35,NA,Verified,0.040926,0.021,NA,33.58157074,-117.74572664
+J01-9082-4,Aliso Viejo,2023-05-30T00:00:00Z,1,0.023004,Flowing,Yes,Undetermined,Priority,35,1590,Verified,0.0462,0.023,NA,33.58157074,-117.74572664
+L02-166-3 (L02P26),Rancho Santa Margarita,2023-06-22T00:00:00Z,1,0.166774,Flowing,Yes,Undetermined,Priority,83,2292,Verified,0.09,0.04,Yes,33.64461309,-117.61379535
+L02-166-3 (L02P26),Rancho Santa Margarita,2022-11-21T00:00:00Z,1,0.166774,Flowing,Yes,Undetermined,Priority,83,1802,Verified,0.122222,NA,Yes,33.64461309,-117.61379535
+L02-166-3 (L02P26),Rancho Santa Margarita,2023-09-13T00:00:00Z,1,0.166774,Flowing,Yes,Undetermined,Priority,83,1969,Verified,0.04033,0.042,Yes,33.64461309,-117.61379535
+L02-344-1,Orange Co,2023-08-17T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59197631,-117.62868986
+L02-344-1,Orange Co,2023-06-01T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59197631,-117.62868986
+L03-316-3 (L03P12),Mission Viejo,2023-05-18T00:00:00Z,1,0.2691,Flowing,Yes,Direct Connection,Priority,77,6084,Verified,0.725373,NA,Yes,33.59602196,-117.65590225
+L03-316-3 (L03P12),Mission Viejo,2023-08-02T00:00:00Z,1,0.2691,Flowing,Yes,Direct Connection,Priority,77,5363,Verified,0.223834,0.088,Yes,33.59602196,-117.65590225
+L05-489-3d,Orange Co,2023-06-27T00:00:00Z,1,1.889189,Flowing,Yes,Direct Connection,NA,NA,5326,Verified,1.207154,NA,NA,33.52889781,-117.64662476
+L05-489-3d,Orange Co,2023-08-16T00:00:00Z,1,1.889189,Flowing,Yes,Direct Connection,NA,NA,4457,Verified,0.837126,NA,NA,33.52889781,-117.64662476
+M01-038-6,San Clemente,2023-08-01T00:00:00Z,1,0.013791,Flowing,Unknown,Direct Connection,Priority,48,3280,Verified,NA,0.001,NA,33.46494853,-117.63929889
+M01-038-6,San Clemente,2023-05-23T00:00:00Z,1,0.013791,Other - See Comments,Unknown,Unsafe to Access,Priority,48,NA,Verified,NA,NA,NA,33.46494853,-117.63929889
+J03-9368-1 (J03TBN1),Laguna Niguel,2023-04-27T00:00:00Z,1,0.005115,Flowing,Yes,NA,Priority,45,NA,Verified,0.003375,0.014,NA,33.5378206,-117.69749913
+J03-9368-1 (J03TBN1),Laguna Niguel,2023-06-27T00:00:00Z,1,0.005115,Flowing,Yes,NA,Priority,45,4480,Verified,0.008824,NA,NA,33.5378206,-117.69749913
+J03-9368-1 (J03TBN1),Laguna Niguel,2023-09-01T00:00:00Z,1,0.005115,Flowing,Yes,Direct Connection,Priority,45,2161,Verified,NA,NA,NA,33.5378206,-117.69749913
+L01-749-5,San Juan Capistrano,2023-08-09T00:00:00Z,1,0.008383,Pooled or Ponded,Unknown,Direct Connection,NA,NA,NA,Verified,NA,NA,NA,33.509183,-117.636421
+L01-618-3,San Juan Capistrano,2023-08-07T00:00:00Z,1,0,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50155524,-117.65002116
+L01-618-3,San Juan Capistrano,2023-05-19T00:00:00Z,1,0,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50155524,-117.65002116
+L01-748-1,San Juan Capistrano,2023-08-09T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50404847,-117.64283212
+L01-748-1,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50404847,-117.64283212
+L02-622-1 (L02P28),Rancho Santa Margarita,2023-06-12T00:00:00Z,1,0.014251,Dry,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63591715,-117.61577485
+L02-622-1 (L02P28),Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.014251,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63591715,-117.61577485
+L01-733-7,Orange Co,2023-08-15T00:00:00Z,1,0.069986,Flowing,Yes,Undetermined,NA,NA,2150,Verified,0.016891,NA,NA,33.61548064,-117.58243899
+L01-733-7,Orange Co,2023-05-31T00:00:00Z,1,0.069986,Flowing,Yes,Direct Connection,NA,NA,1920,Verified,0.145455,NA,NA,33.61548064,-117.58243899
+I01-11093-1,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5586741,-117.77258129
+L01-728-2,Dana Point,2023-09-06T00:00:00Z,1,0.002166,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46469611,-117.68220511
+L01-728-2,Dana Point,2023-05-15T00:00:00Z,1,0.002166,Flowing,Yes,Direct Connection,Not A Priority,NA,1432,Verified,0.005202,NA,NA,33.46469611,-117.68220511
+L03-691-1 (L03P09),Mission Viejo,2023-09-25T00:00:00Z,1,0.31644,Pooled or Ponded,Yes,Partial - Significant Distance,Priority,39,2785,Verified,NA,0.097,NA,33.58531041,-117.66200706
+L03-691-1 (L03P09),Mission Viejo,2023-06-26T00:00:00Z,1,0.31644,Flowing,Yes,Direct Connection,Priority,39,5073,Verified,0.10098,NA,NA,33.58531041,-117.66200706
+L03-662-3 (L03P16),Mission Viejo,2023-08-02T00:00:00Z,1,0.16059,Flowing,Yes,Partial - Significant Distance,Priority,82,1905,Verified,0.114074,0.046,Yes,33.62464864,-117.64825079
+L03-662-3 (L03P16),Mission Viejo,2023-05-18T00:00:00Z,1,0.16059,Flowing,Yes,Undetermined,Priority,82,3405,Verified,0.378135,0.064,Yes,33.62464864,-117.64825079
+SC10-075-1 (M00P05),Dana Point,2023-05-25T00:00:00Z,1,0.006323,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.45357005,-117.66495346
+SC10-075-1 (M00P05),Dana Point,2023-08-03T00:00:00Z,1,0.006323,Flowing,Yes,Direct Connection,Not A Priority,NA,3337,Verified,NA,NA,NA,33.45357005,-117.66495346
+J05-9271-6,Laguna Hills,2023-07-27T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58731405,-117.70449132
+J05-9271-6,Laguna Hills,2023-08-17T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58731405,-117.70449132
+L01-399-1,Orange Co,2023-08-17T00:00:00Z,1,0,NA,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.56325497,-117.54652304
+SC03-067-1,San Clemente,2023-05-24T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.40519078,-117.60661214
+SC03-067-1,San Clemente,2023-08-03T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.40519078,-117.60661214
+L04-266-5,Mission Viejo,2023-08-03T00:00:00Z,1,0.458897,Flowing,Yes,Direct Connection,Priority,96,4935,Verified,0.505135,NA,Yes,33.60731715,-117.66888026
+L04-266-5,Mission Viejo,2023-05-18T00:00:00Z,1,0.458897,Flowing,Yes,Direct Connection,Priority,96,5239,Verified,0.282188,NA,Yes,33.60731715,-117.66888026
+L01-733-5,Orange Co,2023-05-31T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62234264,-117.57674145
+L01-733-5,Orange Co,2023-08-15T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62234264,-117.57674145
+L05-489-7,Orange Co,2023-06-27T00:00:00Z,1,0.093075,Flowing,Yes,NA,Priority,51,3109,Verified,NA,0.019,NA,33.53268584,-117.64672397
+L05-489-7,Orange Co,2023-08-16T00:00:00Z,1,0.093075,Flowing,Yes,Direct Connection,Priority,51,2139,Verified,0.093782,0.043,NA,33.53268584,-117.64672397
+L01-728-7 (L01S03),Dana Point,2023-08-08T00:00:00Z,1,0.147308,Flowing,Yes,Direct Connection,Not A Priority,NA,49860,Removed From Inventory,NA,NA,NA,33.46920039,-117.67964694
+L01-728-7 (L01S03),Dana Point,2023-06-06T00:00:00Z,1,0.147308,Flowing,Yes,Direct Connection,Not A Priority,NA,5618,Removed From Inventory,0.07475,NA,NA,33.46920039,-117.67964694
+I01-11343-2 (I02P18),Laguna Woods,2023-05-18T00:00:00Z,1,0.007131,Flowing,Yes,Undetermined,Not A Priority,NA,7911,Verified,0.004,0.003,Yes,33.61211013,-117.75397211
+I01-11343-2 (I02P18),Laguna Woods,2023-08-03T00:00:00Z,1,0.007131,Flowing,Yes,Undetermined,Not A Priority,NA,4578,Verified,0.006,0.002,Yes,33.61211013,-117.75397211
+L01-602-2,San Juan Capistrano,2023-08-07T00:00:00Z,1,NA,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49828674,-117.65367681
+L01-602-2,San Juan Capistrano,2023-06-05T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,8194,Verified,NA,NA,NA,33.49828674,-117.65367681
+L01-728-6,Dana Point,2023-05-15T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46971487,-117.68090029
+L01-728-6,Dana Point,2023-09-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46971487,-117.68090029
+SC12-068-2,San Clemente,2023-08-02T00:00:00Z,1,0.008401,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,3299,Verified,NA,NA,NA,33.42061031,-117.62101641
+SC12-068-2,San Clemente,2023-05-25T00:00:00Z,1,0.008401,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.42061031,-117.62101641
+M01-047-1,San Clemente,2023-09-14T00:00:00Z,1,0.325881,Flowing,Yes,Direct Connection,Priority,65,8475,Verified,0.353571,0.141,Yes,33.44252141,-117.64195008
+M01-047-1,San Clemente,2023-06-15T00:00:00Z,1,0.325881,Flowing,Yes,Direct Connection,Priority,65,7983,Verified,0.36,NA,Yes,33.44252141,-117.64195008
+M01-003-2,Orange Co,2023-09-14T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.48939277,-117.61378945
+L04-672-1,Mission Viejo,2023-07-11T00:00:00Z,1,0.213365,Flowing,Yes,Undetermined,Priority,64,4042,Verified,0.16,NA,Yes,33.612238,-117.680662
+L04-672-1,Mission Viejo,2023-08-01T00:00:00Z,1,0.213365,Flowing,Yes,Undetermined,Priority,64,2731,Verified,0.185965,NA,Yes,33.612238,-117.680662
+L04-672-1,Mission Viejo,2023-07-25T00:00:00Z,1,0.213365,Flowing,Yes,Undetermined,Priority,64,NA,Verified,0.277778,0.115,Yes,33.612238,-117.680662
+L04-672-1,Mission Viejo,2023-08-08T00:00:00Z,1,0.213365,Flowing,Yes,Undetermined,Priority,64,2443,Verified,0.121558,0.109,Yes,33.612238,-117.680662
+L04-672-1,Mission Viejo,2023-05-18T00:00:00Z,1,0.213365,Flowing,Yes,Direct Connection,Priority,64,5355,Verified,0.384,0.118,Yes,33.612238,-117.680662
+L04-702-4,Mission Viejo,2023-06-28T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58274692,-117.67339355
+L04-702-4,Mission Viejo,2023-09-26T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.58274692,-117.67339355
+L02-641-2,Rancho Santa Margarita,2023-07-18T00:00:00Z,1,0.339039,Flowing,Yes,Direct Connection,Priority,71,1456,Verified,0.266197,0.129,Yes,33.6311147,-117.59485292
+L02-641-2,Rancho Santa Margarita,2023-07-11T00:00:00Z,1,0.339039,Flowing,Yes,Direct Connection,Priority,71,1431,Verified,0.097166,0.046,Yes,33.6311147,-117.59485292
+L02-641-2,Rancho Santa Margarita,2023-07-25T00:00:00Z,1,0.339039,Flowing,Yes,Undetermined,Priority,71,1738,Verified,0.185238,0.108,Yes,33.6311147,-117.59485292
+L02-641-2,Rancho Santa Margarita,2023-08-08T00:00:00Z,1,0.339039,Flowing,Yes,Direct Connection,Priority,71,NA,Verified,0.6,0.052,Yes,33.6311147,-117.59485292
+L02-641-2,Rancho Santa Margarita,2023-06-22T00:00:00Z,1,0.339039,Flowing,Yes,Direct Connection,Priority,71,2526,Verified,0.119397,0.025,Yes,33.6311147,-117.59485292
+L02-641-2,Rancho Santa Margarita,2023-08-01T00:00:00Z,1,0.339039,Flowing,Yes,Undetermined,Priority,71,1530,Verified,0.125207,0.062,Yes,33.6311147,-117.59485292
+SC10-075-3 (M00S01),Dana Point,2023-08-03T00:00:00Z,1,0.36,Flowing,Yes,Direct Connection,NA,NA,1341,Verified,NA,NA,NA,33.45041126,-117.65966764
+SC10-075-3 (M00S01),Dana Point,2023-05-25T00:00:00Z,1,0.36,Flowing,Yes,Direct Connection,NA,NA,6968,Verified,NA,0.012,NA,33.45041126,-117.65966764
+L01-223-1 (L08TBN1),Rancho Santa Margarita,2023-06-22T00:00:00Z,1,0.053353,Flowing,Yes,NA,Priority,52,2623,Verified,0.14944,0.035,NA,33.620715680000004,-117.56462552
+L01-223-1 (L08TBN1),Rancho Santa Margarita,2023-09-13T00:00:00Z,1,0.053353,Flowing,Yes,Undetermined,Priority,52,2993,Verified,0.0084,0,NA,33.620715680000004,-117.56462552
+L01-517-7,Orange Co,2023-08-14T00:00:00Z,1,0.001777,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.52425393,-117.61954366
+L01-517-7,Orange Co,2023-05-30T00:00:00Z,1,0.001777,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.52425393,-117.61954366
+L04-266-1,Mission Viejo,2023-09-26T00:00:00Z,1,0.00225,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.60525713,-117.6723963
+L04-266-1,Mission Viejo,2023-06-28T00:00:00Z,1,0.00225,Flowing,Yes,Direct Connection,Not A Priority,NA,1985,Verified,0.00225,NA,NA,33.60525713,-117.6723963
+J01-9782-1 (J01TBN3),Lake Forest,2023-05-16T00:00:00Z,1,0.00112,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63275609,-117.6769216
+J01-9782-1 (J01TBN3),Lake Forest,2023-09-26T00:00:00Z,1,0.00112,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.63275609,-117.6769216
+J01-9785-1,Lake Forest,2023-09-26T00:00:00Z,1,0.005869,Flowing,Yes,Direct Connection,Not A Priority,NA,1228,Verified,0.004704,0.002,NA,33.61716175,-117.69366498
+J01-9785-1,Lake Forest,2023-07-17T00:00:00Z,1,0.005869,Flowing,Yes,Direct Connection,Not A Priority,NA,1220,Verified,NA,NA,NA,33.61716175,-117.69366498
+L03-241-3,Mission Viejo,2023-09-26T00:00:00Z,1,0.329327,Flowing,Yes,NA,Not A Priority,NA,2520,Verified,0.385116,0.141,NA,33.60617913,-117.64790658
+L03-241-3,Mission Viejo,2023-09-28T00:00:00Z,1,0.329327,Flowing,Yes,Direct Connection,Not A Priority,NA,3174,Verified,0.1848,NA,NA,33.60617913,-117.64790658
+SC12-068-4,San Clemente,2023-08-02T00:00:00Z,1,0.0089,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41953035,-117.62020192
+SC12-068-4,San Clemente,2023-05-24T00:00:00Z,1,0.0089,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41953035,-117.62020192
+M00.1-071-2 (M00S04),San Clemente,2023-05-24T00:00:00Z,1,0.072122,Flowing,Unknown,Undetermined,Not A Priority,NA,9000,Verified,NA,NA,NA,33.40925249,-117.60863786
+M00.1-071-2 (M00S04),San Clemente,2023-08-03T00:00:00Z,1,0.072122,Pooled or Ponded,Unknown,Undetermined,Not A Priority,NA,14100,Verified,NA,NA,NA,33.40925249,-117.60863786
+L02-640-1 (L11P02),Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.163333,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.61878658,-117.60923769
+L02-640-1 (L11P02),Rancho Santa Margarita,2023-06-13T00:00:00Z,1,0.163333,Flowing,Unknown,Direct Connection,Not A Priority,NA,1062,Verified,NA,NA,NA,33.61878658,-117.60923769
+J01-9275-2,Lake Forest,2023-07-27T00:00:00Z,1,0.0018,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65086633,-117.66064651
+J01-9275-2,Lake Forest,2023-08-29T00:00:00Z,1,0.0018,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,1278,Verified,0.0216,NA,NA,33.65086633,-117.66064651
+J01-9005-3,Laguna Niguel,2023-06-29T00:00:00Z,1,0.303774,Pooled or Ponded,Yes,NA,Priority,52,NA,Verified,NA,NA,NA,33.5461744,-117.70304417
+J01-9005-3,Laguna Niguel,2023-08-28T00:00:00Z,1,0.303774,Flowing,Yes,Partial - Significant Distance,Priority,52,2130,Verified,NA,NA,NA,33.5461744,-117.70304417
+J03-9234-8,Laguna Niguel,2023-06-28T00:00:00Z,1,0.344732,Flowing,Yes,Undetermined,NA,NA,5300,Verified,0.872727,NA,NA,33.51992,-117.715433
+J03-9234-8,Laguna Niguel,2023-08-30T00:00:00Z,1,0.344732,Flowing,Yes,NA,NA,NA,2202,Verified,0.075506,NA,NA,33.51992,-117.715433
+J01-9005-4,Laguna Niguel,2023-04-26T00:00:00Z,1,0.011,Pooled or Ponded,Unknown,NA,Not A Priority,NA,NA,Removed From Inventory,NA,NA,NA,33.54612461,-117.70305322
+L01-494-1,Orange Co,2023-06-19T00:00:00Z,1,0.095255,Flowing,Yes,NA,NA,NA,2034,Verified,NA,0.054,NA,33.52846755,-117.60762675
+L01-494-1,Orange Co,2023-05-30T00:00:00Z,1,0.095255,Flowing,Yes,Unsafe to Access,NA,NA,NA,Verified,NA,NA,NA,33.52846755,-117.60762675
+L01-494-1,Orange Co,2023-08-14T00:00:00Z,1,0.095255,Flowing,Yes,Undetermined,NA,NA,2246,Verified,NA,NA,NA,33.52846755,-117.60762675
+L01-724-1 (L01S01),San Juan Capistrano,2023-06-08T00:00:00Z,1,0.093346,Flowing,Yes,Direct Connection,Priority,36,7415,Verified,0.200769,NA,Yes,33.48318609,-117.67706262
+L01-724-1 (L01S01),San Juan Capistrano,2023-08-16T00:00:00Z,1,0.093346,Flowing,Yes,Direct Connection,Priority,36,5677,Verified,0.129524,NA,Yes,33.48318609,-117.67706262
+I01-11059-2,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5535769,-117.7754408
+I01-11059-2,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5535769,-117.7754408
+L01-766-9,San Juan Capistrano,2023-06-08T00:00:00Z,1,0.173904,Pooled or Ponded,Yes,Undetermined,Priority,48,NA,Verified,NA,NA,Yes,33.496535,-117.655642
+L01-766-9,San Juan Capistrano,2023-08-16T00:00:00Z,1,0.173904,NA,Yes,NA,Priority,48,NA,Verified,NA,NA,Yes,33.496535,-117.655642
+L05-489-4,Orange Co,2023-06-27T00:00:00Z,1,0.205885,Flowing,Yes,Direct Connection,Priority,36,6317,Verified,0.757026,NA,NA,33.5293593,-117.64607265
+L05-489-4,Orange Co,2023-08-16T00:00:00Z,1,0.205885,Flowing,Yes,Direct Connection,Priority,36,7040,Verified,0.18565,NA,NA,33.5293593,-117.64607265
+L01-726-9,San Juan Capistrano,2023-08-08T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47841897,-117.67810532
+L01-726-9,San Juan Capistrano,2023-06-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47841897,-117.67810532
+L01-726-8,San Juan Capistrano,2023-06-06T00:00:00Z,1,4.8e-4,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47849535,-117.67868366
+L01-726-8,San Juan Capistrano,2023-08-08T00:00:00Z,1,4.8e-4,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,8960,Verified,NA,NA,NA,33.47849535,-117.67868366
+LC03-11515-1,Laguna Beach,2023-07-18T00:00:00Z,1,0.016796,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.519603,-117.762756
+LC03-11515-1,Laguna Beach,2023-02-09T00:00:00Z,1,0.016796,Flowing,Unknown,NA,NA,NA,6609,Verified,0.036,NA,NA,33.519603,-117.762756
+LC03-11515-1,Laguna Beach,2023-07-06T00:00:00Z,1,0.016796,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,4034,Verified,0.039732,NA,NA,33.519603,-117.762756
+J01-9008-1 (J01P30),Aliso Viejo,2023-09-27T00:00:00Z,1,0.05744,Flowing,Yes,Direct Connection,Priority,62,4427,Verified,0.082143,0.031,NA,33.576771720000004,-117.71330932
+J01-9008-1 (J01P30),Aliso Viejo,2023-07-19T00:00:00Z,1,0.05744,Flowing,Yes,Direct Connection,Priority,62,5524,Verified,0.091071,0.028,NA,33.576771720000004,-117.71330932
+I01-11195-2,Aliso Viejo,2023-07-12T00:00:00Z,1,0.325428,Flowing,Yes,Undetermined,Priority,55,3295,Verified,0.347712,0.08,NA,33.58990998,-117.75157922
+I01-11195-2,Aliso Viejo,2023-02-09T00:00:00Z,1,0.325428,Flowing,Yes,Direct Connection,Priority,55,3349,Verified,0.5175,NA,NA,33.58990998,-117.75157922
+J01-9264-1 (J01P06),Lake Forest,2023-04-25T00:00:00Z,1,0,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.66346514,-117.65406845
+J01-9264-1 (J01P06),Lake Forest,2023-08-29T00:00:00Z,1,0,Pooled or Ponded,Yes,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.66346514,-117.65406845
+J01-9264-1 (J01P06),Lake Forest,2023-05-16T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,0.034,NA,33.66346514,-117.65406845
+M01-088-1,San Clemente,2022-11-05T00:00:00Z,1,0.082403,Flowing,Yes,NA,Not A Priority,NA,5600,Verified,0.021574,NA,NA,33.46997683,-117.63706581
+I01-11503-3,Aliso Viejo,2023-09-26T00:00:00Z,1,0,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5934822,-117.74931874
+I01-11503-3,Aliso Viejo,2023-07-20T00:00:00Z,1,0,Pooled or Ponded,Yes,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5934822,-117.74931874
+L02-571-5 (L02TBN2),San Juan Capistrano,2023-08-08T00:00:00Z,1,0,Flowing,Yes,Direct Connection,Not A Priority,NA,36100,Verified,NA,NA,NA,33.49772412,-117.6660482
+L02-571-5 (L02TBN2),San Juan Capistrano,2023-06-06T00:00:00Z,1,0,Pooled or Ponded,Yes,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49772412,-117.6660482
+J01-9031-1,Lake Forest,2023-08-29T00:00:00Z,1,0.037166,Pooled or Ponded,Unknown,Direct Connection,Priority,50,NA,Verified,NA,NA,Yes,33.67284809,-117.63885049
+J01-9031-1,Lake Forest,2023-05-16T00:00:00Z,1,0.037166,Pooled or Ponded,Unknown,Undetermined,Priority,50,NA,Verified,NA,NA,Yes,33.67284809,-117.63885049
+SC06-146-1 (M00P02),San Clemente,2023-08-02T00:00:00Z,1,0.003017,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41717441,-117.61777962
+SC06-146-1 (M00P02),San Clemente,2023-05-24T00:00:00Z,1,0.003017,NA,Yes,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41717441,-117.61777962
+L01-414-3,Orange Co,2023-08-17T00:00:00Z,1,0.232035,Pooled or Ponded,Yes,Partial - Significant Distance,Priority,60,NA,Verified,NA,NA,NA,33.56680442,-117.59243774
+L01-414-3,Orange Co,2023-06-13T00:00:00Z,1,0.232035,Pooled or Ponded,Yes,Direct Connection,Priority,60,NA,Verified,NA,NA,NA,33.56680442,-117.59243774
+L03-142-1 (L03P24),Rancho Santa Margarita,2023-06-12T00:00:00Z,1,0.018174,Other - See Comments,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.66841886,-117.62080476
+L03-142-1 (L03P24),Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.018174,Other - See Comments,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.66841886,-117.62080476
+J01-9033-1,Lake Forest,2023-07-13T00:00:00Z,1,0.007282,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,3130,Verified,0.019512,0.013,NA,33.67101354,-117.62627934
+J01-9033-1,Lake Forest,2023-09-25T00:00:00Z,1,0.007282,Flowing,Yes,Undetermined,Not A Priority,NA,1975,Verified,0.025,0.002,NA,33.67101354,-117.62627934
+SC01-077-1,San Clemente,2023-08-04T00:00:00Z,1,0.057989,Flowing,Yes,Partial - Significant Distance,Not A Priority,NA,2800,Verified,0.153,NA,NA,33.39614784,-117.59987536
+SC01-077-1,San Clemente,2023-05-24T00:00:00Z,1,0.057989,Flowing,Yes,Direct Connection,Not A Priority,NA,2590,Verified,0.007,NA,NA,33.39614784,-117.59987536
+L02-541-2,San Juan Capistrano,2023-06-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49815467,-117.665789
+L02-541-2,San Juan Capistrano,2023-08-08T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49815467,-117.665789
+L02-502-1,San Juan Capistrano,2023-06-29T00:00:00Z,1,0.026428,Pooled or Ponded,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52458357,-117.66836589
+L02-502-1,San Juan Capistrano,2023-08-31T00:00:00Z,1,0.026428,Pooled or Ponded,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52458357,-117.66836589
+L03-418-1,Laguna Niguel,2023-08-31T00:00:00Z,1,0.063426,Flowing,Yes,Direct Connection,Priority,50,3400,Verified,0.019409,NA,NA,33.54734682,-117.6744682
+L03-418-1,Laguna Niguel,2023-06-29T00:00:00Z,1,0.063426,Flowing,Yes,Direct Connection,Priority,50,3910,Verified,NA,0.004,NA,33.54734682,-117.6744682
+L03-708-5,Laguna Niguel,2023-09-01T00:00:00Z,1,0.006287,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Priority,43,NA,Verified,NA,NA,NA,33.56113153,-117.67655992
+L03-708-5,Laguna Niguel,2023-06-27T00:00:00Z,1,0.006287,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Priority,43,NA,Verified,NA,NA,NA,33.56113153,-117.67655992
+L04-702-1 (L04P02),Mission Viejo,2023-06-28T00:00:00Z,1,0.019946,Pooled or Ponded,Yes,Undetermined,Priority,43,NA,Verified,NA,NA,NA,33.58054037,-117.67326838
+L04-702-1 (L04P02),Mission Viejo,2023-09-26T00:00:00Z,1,0.019946,Pooled or Ponded,Yes,Direct Connection,Priority,43,0,Verified,NA,NA,NA,33.58054037,-117.67326838
+K01-12138-1 (K01TBN1),Laguna Niguel,2023-06-30T00:00:00Z,1,0.063607,Flowing,Yes,NA,Priority,18,3892,Verified,0.40795,NA,NA,33.5119634,-117.69710457
+K01-12138-1 (K01TBN1),Laguna Niguel,2023-08-31T00:00:00Z,1,0.063607,Flowing,Yes,Direct Connection,Priority,18,1516,Verified,0.01134,NA,NA,33.5119634,-117.69710457
+L03-455-2,San Juan Capistrano,2023-08-31T00:00:00Z,1,0.005791,Other - See Comments,Unknown,Direct Connection,Not A Priority,NA,9672,Verified,NA,NA,NA,33.53743191,-117.67568022
+L03-455-2,San Juan Capistrano,2023-06-29T00:00:00Z,1,0.005791,Flowing,Unknown,Direct Connection,Not A Priority,NA,8810,Verified,NA,0,NA,33.53743191,-117.67568022
+J01-9040-1,Lake Forest,2023-09-20T00:00:00Z,1,0.352755,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.678031,-117.623537
+J01-9040-1,Lake Forest,2023-07-13T00:00:00Z,1,0.352755,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,1297,Verified,0.061875,NA,NA,33.678031,-117.623537
+M01-060-3,Dana Point,2023-09-14T00:00:00Z,1,0.766255,Flowing,Unknown,Undetermined,Not A Priority,NA,10757,Verified,1,0.4,NA,33.441288900000004,-117.64500865
+M01-060-3,Dana Point,2023-06-15T00:00:00Z,1,0.766255,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,7300,Verified,0.621583,NA,NA,33.441288900000004,-117.64500865
+M01-060-3,Dana Point,2023-09-08T00:00:00Z,1,0.766255,Other - See Comments,Unknown,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.441288900000004,-117.64500865
+L02-641-1,Rancho Santa Margarita,2023-06-22T00:00:00Z,1,0.050143,Flowing,Yes,Direct Connection,Priority,63,1320,Verified,0.0091,0.004,Yes,33.63111659,-117.59488621
+L02-641-1,Rancho Santa Margarita,2023-08-08T00:00:00Z,1,0.050143,Flowing,Yes,Direct Connection,Priority,63,NA,Verified,0.027746,0.011,Yes,33.63111659,-117.59488621
+J03-9234-6,Laguna Niguel,2023-08-30T00:00:00Z,1,1.108261,Flowing,Yes,Direct Connection,Priority,32,5234,Verified,0.11152,NA,NA,33.5196409,-117.70652750000001
+J03-9234-6,Laguna Niguel,2023-04-27T00:00:00Z,1,1.108261,Flowing,Yes,NA,Priority,32,NA,Verified,0.024677,0.081,NA,33.5196409,-117.70652750000001
+J03-9234-6,Laguna Niguel,2023-06-28T00:00:00Z,1,1.108261,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,32,4790,Verified,0.27,NA,NA,33.5196409,-117.70652750000001
+J06-10011-1 (J06P01),Aliso Viejo,2023-08-09T00:00:00Z,1,0.588719,Flowing,Yes,Partial - Significant Distance,Priority,98,3138,Verified,0.475604,NA,Yes,33.59504096,-117.71576223
+J06-10011-1 (J06P01),Aliso Viejo,2023-04-26T00:00:00Z,1,0.588719,Flowing,Yes,NA,Priority,98,NA,Verified,NA,NA,Yes,33.59504096,-117.71576223
+J06-10011-1 (J06P01),Aliso Viejo,2023-05-30T00:00:00Z,1,0.588719,Flowing,Yes,Partial - Significant Distance,Priority,98,3226,Verified,0.436364,NA,Yes,33.59504096,-117.71576223
+J01-9224-2 (J01P25),Laguna Niguel,2023-05-23T00:00:00Z,1,0.094586,Flowing,Yes,Direct Connection,Priority,79,3293,Verified,0.066745,NA,Yes,33.55761613,-117.71767994
+J01-9224-2 (J01P25),Laguna Niguel,2023-07-11T00:00:00Z,1,0.094586,Flowing,Yes,Direct Connection,Priority,79,3339,Verified,NA,0.035,Yes,33.55761613,-117.71767994
+J01-9224-2 (J01P25),Laguna Niguel,2023-07-18T00:00:00Z,1,0.094586,Flowing,Yes,Direct Connection,Priority,79,3453,Verified,0.090955,0.023,Yes,33.55761613,-117.71767994
+J01-9224-2 (J01P25),Laguna Niguel,2023-08-01T00:00:00Z,1,0.094586,Flowing,Yes,Direct Connection,Priority,79,3484,Verified,0.028649,0.032,Yes,33.55761613,-117.71767994
+J01-9224-2 (J01P25),Laguna Niguel,2023-02-09T00:00:00Z,1,0.094586,Flowing,Yes,Direct Connection,Priority,79,2505,Verified,0.185714,NA,Yes,33.55761613,-117.71767994
+J01-9224-2 (J01P25),Laguna Niguel,2023-08-08T00:00:00Z,1,0.094586,Flowing,Yes,Direct Connection,Priority,79,2492,Verified,0.108,0.031,Yes,33.55761613,-117.71767994
+J01-9224-2 (J01P25),Laguna Niguel,2023-07-25T00:00:00Z,1,0.094586,Flowing,Yes,Direct Connection,Priority,79,3401,Verified,0.045017,0.031,Yes,33.55761613,-117.71767994
+SC11-026-1 (M00P01),Dana Point,2023-08-03T00:00:00Z,1,0.092307,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.45392453,-117.66648411
+SC11-026-1 (M00P01),Dana Point,2023-05-25T00:00:00Z,1,0.092307,Flowing,Unknown,Partial - Significant Distance,Not A Priority,NA,8000,Verified,0.409639,NA,NA,33.45392453,-117.66648411
+J01-9046-1,Lake Forest,2023-08-29T00:00:00Z,1,0.004585,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65453345,-117.65979766
+J01-9046-1,Lake Forest,2023-05-16T00:00:00Z,1,0.004585,Flowing,Unknown,Direct Connection,Not A Priority,NA,999,Verified,0.00383,NA,NA,33.65453345,-117.65979766
+J01-9046-1,Lake Forest,2023-04-25T00:00:00Z,1,0.004585,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,0,NA,33.65453345,-117.65979766
+LC02-11508-3,Laguna Beach,2023-08-14T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54503213,-117.7946238
+LC02-11508-3,Laguna Beach,2023-07-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54503213,-117.7946238
+L01-514-1,Orange Co,2023-06-19T00:00:00Z,2,0.019417,Flowing,Yes,NA,Not A Priority,NA,1880,Verified,NA,0.003,NA,33.52388419,-117.62291576
+L01-514-1,Orange Co,2023-08-14T00:00:00Z,1,0.019417,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52388419,-117.62291576
+L01-514-1,Orange Co,2023-05-30T00:00:00Z,1,0.019417,Flowing,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52388419,-117.62291576
+L01-728-8d,Dana Point,2023-05-25T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46066735,-117.67738072
+L01-728-8d,Dana Point,2023-08-03T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46066735,-117.67738072
+L01-727-1 (L01S04),Dana Point,2023-05-09T00:00:00Z,1,0.129248,Flowing,Unknown,Direct Connection,Not A Priority,NA,6093,Verified,0.177349,NA,NA,33.47115503,-117.68101162
+L01-727-1 (L01S04),Dana Point,2023-09-06T00:00:00Z,1,0.129248,Flowing,Unknown,Direct Connection,Not A Priority,NA,4419,Verified,1.162791,NA,NA,33.47115503,-117.68101162
+L01-303-5,Orange Co,2023-08-15T00:00:00Z,1,0.018878,Flowing,Yes,Partial - Significant Distance,NA,NA,1263,Verified,0.049619,NA,NA,33.59975122,-117.58435346
+L01-303-5,Orange Co,2023-05-31T00:00:00Z,1,0.018878,Flowing,Yes,Undetermined,NA,NA,2494,Verified,0.028,NA,NA,33.59975122,-117.58435346
+I00-11518-1,Laguna Beach,2023-07-06T00:00:00Z,1,0.079534,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52971644,-117.77333079
+I00-11518-1,Laguna Beach,2023-08-14T00:00:00Z,1,0.079534,Flowing,Unknown,Direct Connection,Not A Priority,NA,7600,Verified,NA,NA,NA,33.52971644,-117.77333079
+I01-11195-1,Aliso Viejo,2023-07-12T00:00:00Z,1,0,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.58909833,-117.7524859
+L01-728-9,Dana Point,2023-09-06T00:00:00Z,1,0,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47077265,-117.68109711
+L01-728-9,Dana Point,2023-05-09T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47077265,-117.68109711
+I01-11015-2,Laguna Beach,2023-07-07T00:00:00Z,1,0,Other - See Comments,Unknown,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54790609,-117.7815571
+I01-11015-2,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54790609,-117.7815571
+L05-049-2,Orange Co,2023-08-16T00:00:00Z,1,0.286313,Flowing,Yes,Direct Connection,Not A Priority,NA,2813,Removed From Inventory,0.266129,NA,NA,33.53473606,-117.64615007
+J07-9109-2,Mission Viejo,2023-08-28T00:00:00Z,1,0.068072,Pooled or Ponded,Yes,Undetermined,Priority,23,NA,Verified,NA,NA,NA,33.64157324,-117.65761269
+K01-12036-5,Laguna Niguel,2023-08-30T00:00:00Z,1,0.054304,Flowing,Yes,Direct Connection,Priority,55,2004,Verified,0.166154,NA,NA,33.51166906,-117.71803545
+K01-12036-5,Laguna Niguel,2023-06-28T00:00:00Z,1,0.054304,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,55,2672,Verified,0.031414,NA,NA,33.51166906,-117.71803545
+L02-541-9 (L02P02),San Juan Capistrano,2023-06-05T00:00:00Z,1,0.048641,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50399068,-117.6675175
+L02-541-9 (L02P02),San Juan Capistrano,2023-08-07T00:00:00Z,1,0.048641,Flowing,Yes,Undetermined,Not A Priority,NA,395,Verified,NA,NA,NA,33.50399068,-117.6675175
+K01-12156-6,Laguna Niguel,2023-05-23T00:00:00Z,1,0.56463699999999994,Flowing,Yes,Direct Connection,NA,NA,5282,Verified,1.234286,NA,NA,33.49533383,-117.7149148
+K01-12156-6,Laguna Niguel,2023-08-10T00:00:00Z,1,0.56463699999999994,Flowing,Yes,Direct Connection,NA,NA,4953,Verified,NA,NA,NA,33.49533383,-117.7149148
+L01-517-3,Orange Co,2023-05-30T00:00:00Z,1,0.001664,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52266244,-117.62028151
+L01-517-3,Orange Co,2023-08-14T00:00:00Z,1,0.001664,NA,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52266244,-117.62028151
+L01-601-1,San Juan Capistrano,2023-06-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.48172393,-117.67788801
+L01-601-1,San Juan Capistrano,2023-08-08T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.48172393,-117.67788801
+L02-401-2 (COL02P55),Orange Co,2023-05-08T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56248669,-117.65073625
+L02-401-2 (COL02P55),Orange Co,2023-09-25T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56248669,-117.65073625
+L01-335-1,Orange Co,2023-05-30T00:00:00Z,1,0.013073,Flowing,Yes,Unsafe to Access,Priority,57,NA,Verified,NA,NA,NA,33.57790461,-117.61285256
+L01-335-1,Orange Co,2023-06-19T00:00:00Z,1,0.013073,Flowing,Yes,NA,Priority,57,700,Verified,0.018533,NA,NA,33.57790461,-117.61285256
+L01-335-1,Orange Co,2023-08-14T00:00:00Z,1,0.013073,NA,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,57,800,Verified,0.025641,NA,NA,33.57790461,-117.61285256
+L01-618-4,San Juan Capistrano,2023-08-09T00:00:00Z,1,0,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5025008,-117.6485177
+L01-618-4,San Juan Capistrano,2023-05-19T00:00:00Z,1,0,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5025008,-117.6485177
+J01-9313-1,Aliso Viejo,2023-06-30T00:00:00Z,1,0.05,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56256131,-117.74339262
+J01-9313-1,Aliso Viejo,2023-04-20T00:00:00Z,1,0.05,Flowing,Unknown,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56256131,-117.74339262
+J01-9313-1,Aliso Viejo,2023-08-28T00:00:00Z,1,0.05,Flowing,Unknown,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56256131,-117.74339262
+L01-618-1,San Juan Capistrano,2023-08-07T00:00:00Z,1,0.081,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5000465,-117.65217064
+L01-618-1,San Juan Capistrano,2023-06-05T00:00:00Z,1,0.081,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,2152,Verified,NA,NA,NA,33.5000465,-117.65217064
+L01-766-2 (L01S06),San Juan Capistrano,2023-08-07T00:00:00Z,1,0.180442,Flowing,Unknown,Direct Connection,Not A Priority,NA,1450,Verified,0.203704,NA,NA,33.48591622,-117.67215175
+L01-766-2 (L01S06),San Juan Capistrano,2023-06-05T00:00:00Z,1,0.180442,Other - See Comments,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.48591622,-117.67215175
+L01-391-1,Orange Co,2023-05-31T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57606988,-117.58591645
+L01-391-1,Orange Co,2023-08-15T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57606988,-117.58591645
+L03-074-2,Mission Viejo,2023-07-03T00:00:00Z,1,0.016608,Flowing,Yes,NA,Priority,36,1355,Verified,0.008834,NA,NA,33.63947149,-117.64176341
+L03-074-2,Mission Viejo,2023-08-17T00:00:00Z,1,0.016608,Flowing,Yes,Direct Connection,Priority,36,1368,Verified,0.006083,NA,NA,33.63947149,-117.64176341
+L03-214-2 (L03P18),Mission Viejo,2023-07-03T00:00:00Z,1,0.596516,Flowing,Yes,Direct Connection,Priority,75,3543,Verified,0.524735,0.25,Yes,33.6237248,-117.64231509
+L03-214-2 (L03P18),Mission Viejo,2023-08-02T00:00:00Z,1,0.596516,Flowing,Yes,Direct Connection,Priority,75,3489,Verified,0.542857,0.219,Yes,33.6237248,-117.64231509
+L03-214-2 (L03P18),Mission Viejo,2023-05-18T00:00:00Z,1,0.596516,Flowing,Yes,Direct Connection,Priority,75,4786,Verified,1.269767,NA,Yes,33.6237248,-117.64231509
+L01-303-3,Orange Co,2023-05-31T00:00:00Z,1,NA,Other - See Comments,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.59526175,-117.5840821
+L01-303-3,Orange Co,2023-08-15T00:00:00Z,1,NA,NA,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.59526175,-117.5840821
+L01-414-1,Orange Co,2023-08-17T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56170664,-117.59054811
+L01-414-1,Orange Co,2023-06-01T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56170664,-117.59054811
+M01-002-1,Orange Co,2023-09-14T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49159297,-117.61283462
+I01-11217-1,Aliso Viejo,2023-09-26T00:00:00Z,1,0.001777,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59737837,-117.74628871
+I01-11217-1,Aliso Viejo,2023-07-20T00:00:00Z,1,0.001777,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59737837,-117.74628871
+I01-11217-1,Aliso Viejo,2023-07-20T00:00:00Z,1,0.001777,Pooled or Ponded,Unknown,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59737837,-117.74628871
+L01-613-1,Dana Point,2023-08-08T00:00:00Z,1,0.005884,Flowing,Yes,Direct Connection,NA,NA,16340,Removed From Inventory,NA,NA,NA,33.46916647,-117.6793327
+L01-613-1,Dana Point,2023-06-06T00:00:00Z,1,0.005884,Flowing,Yes,Direct Connection,NA,NA,1728,Removed From Inventory,0.006136,NA,NA,33.46916647,-117.6793327
+SC05-073-1,San Clemente,2023-05-24T00:00:00Z,1,0.006985,NA,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41311138,-117.61384378
+SC05-073-1,San Clemente,2023-08-02T00:00:00Z,1,0.006985,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41311138,-117.61384378
+K01-12159-2,Dana Point,2023-06-21T00:00:00Z,1,0.149132,Flowing,Yes,Direct Connection,Priority,62,4738,Verified,0.176904,0.097,Yes,33.4824512,-117.72043209
+K01-12159-2,Dana Point,2023-08-15T00:00:00Z,1,0.149132,Flowing,Yes,Direct Connection,Priority,62,5368,Verified,0.0864,0.083,Yes,33.4824512,-117.72043209
+L01-335-2,Orange Co,2023-05-30T00:00:00Z,1,0,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.57739792,-117.61274918
+L01-335-2,Orange Co,2023-08-14T00:00:00Z,1,0,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.57739792,-117.61274918
+M01-003-1,Orange Co,2023-09-14T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.48892946,-117.61344403
+M02-085-1 (M02P06),San Clemente,2023-06-15T00:00:00Z,1,0.069651,Flowing,Yes,Direct Connection,Priority,61,3063,Verified,0.03744,0.019,Yes,33.4583462,-117.5945829
+M02-085-1 (M02P06),San Clemente,2023-08-30T00:00:00Z,1,0.069651,Flowing,Yes,Direct Connection,Priority,61,5614,Verified,0.040449,0.017,Yes,33.4583462,-117.5945829
+M02-085-1 (M02P06),San Clemente,2023-09-07T00:00:00Z,1,0.069651,Flowing,Yes,Direct Connection,Priority,61,2240,Verified,0.178182,NA,Yes,33.4583462,-117.5945829
+L02-571-1,San Juan Capistrano,2023-06-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49086976,-117.66612034
+L02-571-1,San Juan Capistrano,2023-08-08T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49086976,-117.66612034
+J01-9007-1 (J02P05),Aliso Viejo,2023-09-06T00:00:00Z,1,0.101998,Flowing,Yes,Direct Connection,Priority,49,1529,Verified,0.097959,0.019,Yes,33.55864514,-117.73782664
+J01-9007-1 (J02P05),Aliso Viejo,2023-06-21T00:00:00Z,1,0.101998,Flowing,Yes,Undetermined,Priority,49,2756,Verified,0.018261,0.003,Yes,33.55864514,-117.73782664
+J01-9007-1 (J02P05),Aliso Viejo,2023-04-27T00:00:00Z,1,0.101998,Flowing,Yes,NA,Priority,49,NA,Verified,0.012925,0.007,Yes,33.55864514,-117.73782664
+L04-136-1 (L04P07),Mission Viejo,2023-09-28T00:00:00Z,1,NA,Pooled or Ponded,Yes,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,0.106,NA,33.60686817,-117.67786535
+L04-136-1 (L04P07),Mission Viejo,2023-05-18T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.60686817,-117.67786535
+I01-11021-1,Laguna Beach,2022-11-05T00:00:00Z,1,0.016355,Flowing,Yes,NA,NA,NA,2842,Verified,0.007692,NA,NA,33.54156337,-117.78262698
+J01-9144-1 (J01P23),Laguna Niguel,2023-04-26T00:00:00Z,1,0.018688,Flowing,Yes,NA,Priority,52,NA,Verified,NA,0,NA,33.554894,-117.71895089
+J01-9144-1 (J01P23),Laguna Niguel,2023-07-26T00:00:00Z,1,0.018688,Flowing,Yes,Direct Connection,Priority,52,1392,Verified,NA,0.006,NA,33.554894,-117.71895089
+L02-541-7,San Juan Capistrano,2023-06-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49992872,-117.66647854
+L02-541-7,San Juan Capistrano,2023-08-08T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49992872,-117.66647854
+I00-11468-1,Laguna Beach,2023-09-06T00:00:00Z,1,0.039855,NA,Yes,NA,Priority,55,NA,Verified,NA,NA,Yes,33.53565787,-117.76901328
+I00-11468-1,Laguna Beach,2023-06-07T00:00:00Z,1,0.039855,Flowing,Yes,NA,Priority,55,NA,Verified,NA,NA,Yes,33.53565787,-117.76901328
+L03-455-4,San Juan Capistrano,2023-06-29T00:00:00Z,1,0,Other - See Comments,Unknown,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5397457,-117.67546242
+L03-455-4,San Juan Capistrano,2023-08-31T00:00:00Z,1,0,Other - See Comments,Unknown,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5397457,-117.67546242
+L01-747-1,San Juan Capistrano,2023-08-09T00:00:00Z,1,0.045,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5089042,-117.63450608
+L01-747-1,San Juan Capistrano,2023-06-05T00:00:00Z,1,0.045,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5089042,-117.63450608
+L02-622-2 (L02P32),Rancho Santa Margarita,2023-06-12T00:00:00Z,1,0.100282,Flowing,Yes,Direct Connection,Not A Priority,NA,5000,Verified,NA,0.035,NA,33.64724654,-117.60247434
+L02-374-1 (L02P50),Orange Co,2023-08-08T00:00:00Z,1,0.197378,Flowing,Yes,Direct Connection,Priority,66,NA,Verified,0.196,0.038,Yes,33.56985508,-117.64601249
+L02-374-1 (L02P50),Orange Co,2023-07-25T00:00:00Z,1,0.197378,Flowing,Yes,Undetermined,Priority,66,3095,Verified,0.155087,0.079,Yes,33.56985508,-117.64601249
+L02-374-1 (L02P50),Orange Co,2023-08-01T00:00:00Z,1,0.197378,Flowing,Yes,Direct Connection,Priority,66,2300,Verified,0.118125,0.073,Yes,33.56985508,-117.64601249
+L02-374-1 (L02P50),Orange Co,2023-02-07T00:00:00Z,1,0.197378,Flowing,Yes,Partial - Significant Distance,Priority,66,4626,Verified,0.400424,NA,Yes,33.56985508,-117.64601249
+L02-374-1 (L02P50),Orange Co,2023-07-11T00:00:00Z,1,0.197378,Flowing,Yes,Direct Connection,Priority,66,2258,Verified,0.36,0.067,Yes,33.56985508,-117.64601249
+L02-374-1 (L02P50),Orange Co,2023-06-27T00:00:00Z,1,0.197378,Flowing,Yes,Partial - Significant Distance,Priority,66,2913,Verified,0.115281,0.055,Yes,33.56985508,-117.64601249
+L02-374-1 (L02P50),Orange Co,2023-07-18T00:00:00Z,1,0.197378,Flowing,Yes,Unsafe to Access,Priority,66,3452,Verified,0.090995,0.058,Yes,33.56985508,-117.64601249
+I01-11487-1,Laguna Beach,2023-07-06T00:00:00Z,1,0,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54221573,-117.7852577
+I01-11487-1,Laguna Beach,2023-08-14T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54221573,-117.7852577
+L01-125-1,Rancho Santa Margarita,2023-08-10T00:00:00Z,1,2.5,Flowing,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65133621,-117.56709677
+L01-125-1,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,2.5,Flowing,Yes,Direct Connection,Not A Priority,NA,2108,Verified,2.5,NA,NA,33.65133621,-117.56709677
+J03-9215-1,Laguna Niguel,2023-06-27T00:00:00Z,1,NA,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53115836,-117.70566259
+J03-9215-1,Laguna Niguel,2023-09-01T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53115836,-117.70566259
+L01-730-1,Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.023405,Flowing,Yes,Undetermined,Not A Priority,NA,1582,Verified,NA,NA,NA,33.62428099,-117.56389525
+L01-730-1,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,0.023405,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.62428099,-117.56389525
+M00.1-071-3 (M00S04),San Clemente,2023-06-19T00:00:00Z,1,0.044229,Flowing,Yes,NA,Not A Priority,NA,3561,Verified,NA,NA,NA,33.41325504,-117.60282649
+M00.1-071-3 (M00S04),San Clemente,2023-05-24T00:00:00Z,1,0.044229,Flowing,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41325504,-117.60282649
+M00.1-071-3 (M00S04),San Clemente,2023-08-04T00:00:00Z,1,0.044229,Flowing,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41325504,-117.60282649
+J01-9144-4 (J01P26),Aliso Viejo,2023-09-26T00:00:00Z,1,0.003827,Flowing,Unknown,Direct Connection,Not A Priority,NA,1442,Verified,NA,0,NA,33.5591058,-117.7186966
+J01-9144-4 (J01P26),Aliso Viejo,2023-07-26T00:00:00Z,1,0.003827,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5591058,-117.7186966
+J01-9144-4 (J01P26),Aliso Viejo,2023-04-26T00:00:00Z,1,0.003827,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5591058,-117.7186966
+M00.2-066-1 (M00S07),San Clemente,2023-05-24T00:00:00Z,1,0.014319,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,6410,Verified,0.0020830000000000002,NA,NA,33.42317767,-117.62305914
+M00.2-066-1 (M00S07),San Clemente,2023-08-02T00:00:00Z,1,0.014319,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,3907,Verified,0.026526,NA,NA,33.42317767,-117.62305914
+K01-12156-1,Laguna Niguel,2023-06-30T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49693715,-117.71287002
+K01-12156-1,Laguna Niguel,2023-08-31T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49693715,-117.71287002
+LC05-11017-2,Laguna Beach,2023-08-14T00:00:00Z,1,0.029091,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,NA,NA,1872,Verified,0.018103,0.002,NA,33.51543678,-117.76021877
+LC05-11017-2,Laguna Beach,2023-07-06T00:00:00Z,1,0.029091,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,NA,NA,1738,Verified,0.0165,NA,NA,33.51543678,-117.76021877
+J06-9079-1 (J06P03),Aliso Viejo,2023-05-30T00:00:00Z,1,0.140085,Flowing,Yes,Partial - Significant Distance,Priority,70,2984,Verified,0.0384,0.02,Yes,33.59226263,-117.71564215
+J06-9079-1 (J06P03),Aliso Viejo,2023-08-09T00:00:00Z,1,0.140085,Flowing,Yes,Partial - Significant Distance,Priority,70,2108,Verified,1.256075,0.049,Yes,33.59226263,-117.71564215
+J06-9079-1 (J06P03),Aliso Viejo,2023-04-26T00:00:00Z,1,0.140085,Flowing,Yes,NA,Priority,70,NA,Verified,0.018413,0.04,Yes,33.59226263,-117.71564215
+L02-359-1 (L02P43),Orange Co,2023-06-01T00:00:00Z,1,0.010162,NA,Yes,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57846935,-117.64023441
+L02-359-1 (L02P43),Orange Co,2023-08-17T00:00:00Z,1,0.010162,Pooled or Ponded,Yes,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.57846935,-117.64023441
+SM01-086-1 (M03P01),San Clemente,2023-05-23T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,1852,Verified,NA,NA,NA,33.45603356,-117.57364224
+SM01-086-1 (M03P01),San Clemente,2023-08-01T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.45603356,-117.57364224
+J01-9364-4,Orange Co,2023-08-28T00:00:00Z,1,0,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54433919,-117.72724114
+J01-9364-4,Orange Co,2023-06-29T00:00:00Z,1,0,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54433919,-117.72724114
+L02-396-1,Mission Viejo,2023-06-28T00:00:00Z,1,0.024038,Flowing,Yes,Undetermined,Priority,47,1934,Verified,0.0222,NA,NA,33.56347893,-117.65379204
+L02-396-1,Mission Viejo,2023-09-25T00:00:00Z,1,0.024038,Flowing,Yes,Undetermined,Priority,47,2790,Verified,0.03375,NA,NA,33.56347893,-117.65379204
+I01-11093-2,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56267164,-117.7697325
+I01-11093-2,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56267164,-117.7697325
+L01-556-1,San Juan Capistrano,2023-06-05T00:00:00Z,1,0.015099,Other - See Comments,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.50553072,-117.64514276
+L01-556-1,San Juan Capistrano,2023-08-09T00:00:00Z,1,0.015099,Flowing,Unknown,Direct Connection,Not A Priority,NA,15840,Verified,0.118571,NA,NA,33.50553072,-117.64514276
+L01-303-1,Orange Co,2023-05-31T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,NA,NA,NA,Verified,NA,NA,NA,33.58906495,-117.58454324
+L01-303-1,Orange Co,2023-08-15T00:00:00Z,1,NA,Pooled or Ponded,Yes,Partial - Significant Distance,NA,NA,NA,Verified,NA,NA,NA,33.58906495,-117.58454324
+M02-061-6,San Clemente,2023-09-01T00:00:00Z,1,0.010425,Flowing,Yes,NA,Priority,34,11430,Verified,NA,NA,NA,33.43589655,-117.62459727
+M02-061-6,San Clemente,2023-05-24T00:00:00Z,1,0.010425,Flowing,Yes,Direct Connection,Priority,34,4377,Verified,0.008955,NA,NA,33.43589655,-117.62459727
+K01-12058-1 (K01P08),Laguna Niguel,2023-08-31T00:00:00Z,1,0.166967,Flowing,Yes,Direct Connection,Priority,67,NA,Verified,NA,NA,NA,33.5113,-117.69462
+K01-12058-1 (K01P08),Laguna Niguel,2023-07-18T00:00:00Z,1,0.166967,Flowing,Yes,Direct Connection,Priority,67,5975,Verified,0.15,0.03,NA,33.5113,-117.69462
+K01-12058-1 (K01P08),Laguna Niguel,2023-07-11T00:00:00Z,1,0.166967,Flowing,Yes,Direct Connection,Priority,67,6687,Verified,0.094737,0.029,NA,33.5113,-117.69462
+K01-12058-1 (K01P08),Laguna Niguel,2023-02-22T00:00:00Z,1,0.166967,Flowing,Yes,Direct Connection,Priority,67,3396,Verified,0.085574,NA,NA,33.5113,-117.69462
+K01-12058-1 (K01P08),Laguna Niguel,2023-07-25T00:00:00Z,1,0.166967,Flowing,Yes,Direct Connection,Priority,67,5942,Verified,0.093333,0.03,NA,33.5113,-117.69462
+K01-12058-1 (K01P08),Laguna Niguel,2023-06-30T00:00:00Z,1,0.166967,Flowing,Yes,NA,Priority,67,3946,Verified,0.146669,NA,NA,33.5113,-117.69462
+K01-12058-1 (K01P08),Laguna Niguel,2023-08-01T00:00:00Z,1,0.166967,Flowing,Yes,Direct Connection,Priority,67,6013,Verified,0.06605,0.026,NA,33.5113,-117.69462
+K01-12058-1 (K01P08),Laguna Niguel,2023-08-08T00:00:00Z,1,0.166967,Flowing,Yes,Direct Connection,Priority,67,4352,Verified,0.072,0.024,NA,33.5113,-117.69462
+K01-12126-1 (K01S01),Dana Point,2023-08-15T00:00:00Z,1,0.455348,Flowing,Yes,Direct Connection,Priority,78,5486,Verified,0.126,0.166,Yes,33.48403393,-117.71987581
+K01-12126-1 (K01S01),Dana Point,2023-06-21T00:00:00Z,1,0.455348,Flowing,Yes,Direct Connection,Priority,78,5640,Verified,0.288,0.155,Yes,33.48403393,-117.71987581
+L03-074-1 (L03B01),Mission Viejo,2023-07-03T00:00:00Z,1,0.197334,Flowing,Yes,Direct Connection,Priority,71,3666,Verified,0.207373,0.026,NA,33.63832178,-117.63884472
+L03-074-1 (L03B01),Mission Viejo,2023-08-17T00:00:00Z,1,0.197334,Flowing,Yes,Direct Connection,Priority,71,3512,Verified,0.06606,0.024,NA,33.63832178,-117.63884472
+K01-12036-1,Laguna Niguel,2023-06-28T00:00:00Z,1,0.021434,Flowing,Yes,Undetermined,Not A Priority,NA,2188,Verified,0.008,NA,NA,33.5071094,-117.71889333
+K01-12036-1,Laguna Niguel,2023-08-30T00:00:00Z,1,0.021434,Flowing,Yes,Direct Connection,Not A Priority,NA,1612,Verified,0.037846,NA,NA,33.5071094,-117.71889333
+L01-766-4,San Juan Capistrano,2023-08-07T00:00:00Z,1,0.001979,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.487744,-117.66758978
+L01-766-4,San Juan Capistrano,2023-06-05T00:00:00Z,1,0.001979,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.487744,-117.66758978
+L03-241-4,Mission Viejo,2023-07-13T00:00:00Z,1,0.012278,Flowing,Yes,Direct Connection,Priority,45,2450,Verified,0.006454,0,NA,33.60923197,-117.64411226
+L03-241-4,Mission Viejo,2023-09-26T00:00:00Z,1,0.012278,Flowing,Yes,NA,Priority,45,1410,Verified,0.046635,0.014,NA,33.60923197,-117.64411226
+L02-246-1 (L11P01),Rancho Santa Margarita,2023-07-18T00:00:00Z,1,0.051586,Flowing,Yes,Direct Connection,Priority,71,1776,Verified,0.068665,0.012,Yes,33.6104653,-117.61660036
+L02-246-1 (L11P01),Rancho Santa Margarita,2023-06-22T00:00:00Z,1,0.051586,Flowing,Yes,Direct Connection,Priority,71,1698,Verified,0.055332,0.023,Yes,33.6104653,-117.61660036
+L02-246-1 (L11P01),Rancho Santa Margarita,2023-08-01T00:00:00Z,1,0.051586,Flowing,Yes,Direct Connection,Priority,71,1350,Verified,0.093976,0.013,Yes,33.6104653,-117.61660036
+L02-246-1 (L11P01),Rancho Santa Margarita,2023-02-22T00:00:00Z,1,0.051586,Flowing,Yes,Direct Connection,Priority,71,1833,Verified,0.006685,NA,Yes,33.6104653,-117.61660036
+L02-246-1 (L11P01),Rancho Santa Margarita,2023-08-08T00:00:00Z,1,0.051586,Flowing,Yes,Direct Connection,Priority,71,NA,Verified,0.0616,0.017,Yes,33.6104653,-117.61660036
+L02-246-1 (L11P01),Rancho Santa Margarita,2023-07-11T00:00:00Z,1,0.051586,Flowing,Yes,Direct Connection,Priority,71,1406,Verified,0.048636,0.018,Yes,33.6104653,-117.61660036
+L02-246-1 (L11P01),Rancho Santa Margarita,2023-07-25T00:00:00Z,1,0.051586,Flowing,Yes,Undetermined,Priority,71,1731,Verified,0.085868,0.013,Yes,33.6104653,-117.61660036
+L04-232-1,Mission Viejo,2023-06-28T00:00:00Z,1,0.020937,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,3100,Verified,0.052812,NA,NA,33.62255222,-117.66977552
+J01-9364-3 (J01P21),Orange Co,2023-06-29T00:00:00Z,1,3.673333,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54985427,-117.72129019
+J01-9364-3 (J01P21),Orange Co,2023-08-28T00:00:00Z,1,3.673333,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54985427,-117.72129019
+J01-9066-1 (J01P04),Mission Viejo,2023-08-17T00:00:00Z,1,0.015405,Flowing,Yes,Direct Connection,Priority,41,2948,Verified,0.007749,0.002,NA,33.6093405,-117.69288756
+J01-9066-1 (J01P04),Mission Viejo,2023-04-25T00:00:00Z,1,0.015405,Flowing,Yes,NA,Priority,41,NA,Verified,0.022536,0.004,NA,33.6093405,-117.69288756
+J01-9066-1 (J01P04),Mission Viejo,2023-07-05T00:00:00Z,1,0.015405,Flowing,Yes,Partial - Significant Distance,Priority,41,3855,Verified,0.024375,0.002,NA,33.6093405,-117.69288756
+L03-708-1,Laguna Niguel,2023-05-23T00:00:00Z,1,0.018177,Flowing,Yes,Direct Connection,Priority,45,NA,Verified,NA,0.018,NA,33.55750288,-117.67651868
+M02-052-2,San Clemente,2023-09-28T00:00:00Z,1,0.686261,Flowing,Yes,Direct Connection,Not A Priority,NA,5399,Verified,0.39,NA,NA,33.45120321,-117.60988787
+M02-052-2,San Clemente,2023-06-15T00:00:00Z,1,0.686261,Flowing,Yes,Direct Connection,Not A Priority,NA,7070,Verified,1.2,NA,NA,33.45120321,-117.60988787
+M01-099-1,San Clemente,2023-08-01T00:00:00Z,1,0.028528,Flowing,Yes,Direct Connection,Priority,56,5242,Verified,0.006469,NA,NA,33.45679464,-117.64228377
+M01-099-1,San Clemente,2023-05-23T00:00:00Z,1,0.028528,Flowing,Yes,Direct Connection,Priority,56,11330,Verified,0.001149,NA,NA,33.45679464,-117.64228377
+J04-9249-1,Laguna Niguel,2023-07-05T00:00:00Z,1,1.180767,Pooled or Ponded,Yes,Direct Connection,Priority,68,NA,Verified,NA,NA,NA,33.55392245,-117.70986334
+J04-9249-1,Laguna Niguel,2023-06-29T00:00:00Z,1,1.180767,Pooled or Ponded,Yes,NA,Priority,68,NA,Verified,NA,NA,NA,33.55392245,-117.70986334
+J04-9249-1,Laguna Niguel,2023-08-28T00:00:00Z,1,1.180767,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,68,NA,Verified,NA,NA,NA,33.55392245,-117.70986334
+I00-11518-2,Laguna Beach,2023-07-06T00:00:00Z,1,0.0048,Other - See Comments,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.528629,-117.772636
+I01-11023-4,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55119472,-117.77826984
+I01-11023-4,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55119472,-117.77826984
+SC05-073-3,San Clemente,2023-05-24T00:00:00Z,1,0.003033,NA,Unknown,Unsafe to Access,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41574234,-117.6123872
+SC05-073-3,San Clemente,2023-08-02T00:00:00Z,1,0.003033,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41574234,-117.6123872
+L01-414-2,Orange Co,2023-06-01T00:00:00Z,1,0,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56488962,-117.59207479
+L01-414-2,Orange Co,2023-08-17T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56488962,-117.59207479
+LC06-11019-1,Laguna Beach,2023-07-06T00:00:00Z,1,0.028496,Flowing,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54303857,-117.78946047
+LC06-11019-1,Laguna Beach,2023-08-14T00:00:00Z,1,0.028496,Flowing,Yes,Direct Connection,Not A Priority,NA,1870,Verified,NA,0.001,NA,33.54303857,-117.78946047
+L03-418-8,Laguna Niguel,2023-05-23T00:00:00Z,1,0.142936,Flowing,Yes,Direct Connection,Priority,61,2225,Verified,0.363,NA,Yes,33.5575697,-117.6763089
+L03-418-8,Laguna Niguel,2023-09-27T00:00:00Z,1,0.142936,Flowing,Yes,Direct Connection,Priority,61,2996,Verified,0.10453900000000001,0.083,Yes,33.5575697,-117.6763089
+L02-204-1 (L02P45),Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.021742,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.61913433,-117.62331782
+L02-204-1 (L02P45),Rancho Santa Margarita,2023-06-12T00:00:00Z,1,0.021742,Flowing,Unknown,Undetermined,Not A Priority,NA,1492,Verified,NA,0.002,NA,33.61913433,-117.62331782
+I01-11216-1 (I02P13),Aliso Viejo,2023-09-26T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59874987,-117.74724136
+I01-11216-1 (I02P13),Aliso Viejo,2023-07-20T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59874987,-117.74724136
+L01-731-1 (L08TBN2),Rancho Santa Margarita,2023-09-13T00:00:00Z,1,0.314453,Flowing,Yes,Undetermined,Not A Priority,NA,2547,Verified,0.042,NA,Yes,33.625156,-117.56600826
+L01-731-1 (L08TBN2),Rancho Santa Margarita,2023-06-22T00:00:00Z,1,0.314453,Flowing,Yes,Undetermined,Not A Priority,NA,2980,Verified,0.038494,NA,Yes,33.625156,-117.56600826
+J01-9131-1 (J01P28),Aliso Viejo,2023-06-21T00:00:00Z,1,0.070401,Flowing,Yes,Direct Connection,Priority,51,3672,Verified,0.086705,0.03,Yes,33.57471343,-117.71586502
+J01-9131-1 (J01P28),Aliso Viejo,2023-04-26T00:00:00Z,1,0.070401,Flowing,Yes,NA,Priority,51,NA,Verified,NA,0.008,Yes,33.57471343,-117.71586502
+J01-9131-1 (J01P28),Aliso Viejo,2023-09-27T00:00:00Z,1,0.070401,Flowing,Yes,Direct Connection,Priority,51,2177,Verified,0.09,NA,Yes,33.57471343,-117.71586502
+SC12-068-1,San Clemente,2023-05-24T00:00:00Z,1,0.070455,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,7022,Verified,0.178035,NA,NA,33.42227825,-117.62212777
+L03-316-2,Mission Viejo,2023-06-26T00:00:00Z,1,0.023061,Flowing,Yes,Direct Connection,Priority,34,NA,Verified,NA,NA,NA,33.59093104,-117.65945745
+L03-316-2,Mission Viejo,2023-07-13T00:00:00Z,1,0.023061,Flowing,Yes,Partial - Significant Distance,Priority,34,2890,Verified,0.001718,0.004,NA,33.59093104,-117.65945745
+L03-316-2,Mission Viejo,2023-09-26T00:00:00Z,1,0.023061,Flowing,Yes,NA,Priority,34,2810,Verified,0.174138,0.008,NA,33.59093104,-117.65945745
+SM01-086-2,San Clemente,2023-05-23T00:00:00Z,1,0.02,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.45608122,-117.57327078
+SM01-086-2,San Clemente,2023-08-01T00:00:00Z,1,0.02,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.45608122,-117.57327078
+I01-11216-2 (I02P12),Aliso Viejo,2023-09-26T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59875002,-117.74720171
+I01-11216-2 (I02P12),Aliso Viejo,2023-07-20T00:00:00Z,1,NA,Flowing,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.59875002,-117.74720171
+LC04-11199-1,Laguna Beach,2023-07-06T00:00:00Z,1,NA,NA,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.516715,-117.761276
+L03-455-6,Laguna Niguel,2023-06-29T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54323122,-117.67485686
+L03-455-6,Laguna Niguel,2023-08-31T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54323122,-117.67485686
+M02-052-4,San Clemente,2023-06-15T00:00:00Z,1,0.041791,Flowing,Yes,Direct Connection,Priority,47,6162,Verified,0.013333,NA,NA,33.45128562,-117.60972256
+LC01-11446-1,Laguna Beach,2023-06-07T00:00:00Z,1,0.014692,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,7.4e-4,NA,NA,33.5540555,-117.81591322
+LC01-11446-1,Laguna Beach,2023-09-06T00:00:00Z,1,0.014692,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,9.6e-4,NA,NA,33.5540555,-117.81591322
+SC11-035-1d,Dana Point,2023-05-25T00:00:00Z,1,0,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.45964061,-117.67567227
+SC11-035-1d,Dana Point,2023-08-03T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.45964061,-117.67567227
+J01-9377-1,Lake Forest,2023-04-26T00:00:00Z,1,0.001816,Dry,Unknown,NA,Priority,22,NA,Verified,NA,NA,Yes,33.65809197,-117.65776843
+J01-9377-1,Lake Forest,2023-08-29T00:00:00Z,1,0.001816,Pooled or Ponded,Unknown,Direct Connection,Priority,22,NA,Verified,NA,NA,Yes,33.65809197,-117.65776843
+J01-9377-1,Lake Forest,2023-05-16T00:00:00Z,1,0.001816,Flowing,Unknown,Direct Connection,Priority,22,540,Verified,0.002348,NA,Yes,33.65809197,-117.65776843
+L03-497-1,San Juan Capistrano,2023-08-30T00:00:00Z,1,0,NA,Unknown,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52652029,-117.67941979
+L03-497-1,San Juan Capistrano,2023-06-28T00:00:00Z,1,0,NA,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52652029,-117.67941979
+J01-10017-1 (J01TBN4),Aliso Viejo,2023-09-27T00:00:00Z,1,0.016909,Flowing,Yes,Direct Connection,Priority,43,26439,Verified,0.046667,NA,NA,33.57090835,-117.71707369
+J01-10017-1 (J01TBN4),Aliso Viejo,2023-07-19T00:00:00Z,1,0.016909,Flowing,Yes,Direct Connection,Priority,43,7856,Verified,0.008309,0.003,NA,33.57090835,-117.71707369
+J01-10017-1 (J01TBN4),Aliso Viejo,2023-04-26T00:00:00Z,1,0.016909,Flowing,Yes,NA,Priority,43,NA,Verified,NA,0.001,NA,33.57090835,-117.71707369
+SC06-146-2 (M00P02),San Clemente,2023-05-24T00:00:00Z,1,0.055256,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,9918,Verified,0.042038,NA,NA,33.41781803,-117.61789102
+SC06-146-2 (M00P02),San Clemente,2023-08-02T00:00:00Z,1,0.055256,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.41781803,-117.61789102
+LC02-11508-2,Laguna Beach,2023-07-06T00:00:00Z,1,0.023365,Flowing,Yes,Partial - Significant Distance,Not A Priority,NA,6498,Verified,0.040134,NA,NA,33.54553581,-117.79532189
+LC02-11508-2,Laguna Beach,2023-08-14T00:00:00Z,1,0.023365,Flowing,Yes,NA,Not A Priority,NA,5950,Verified,0.017333,NA,NA,33.54553581,-117.79532189
+L02-502-5,San Juan Capistrano,2023-06-29T00:00:00Z,1,0,Flowing,Unknown,Direct Connection,Not A Priority,NA,1268,Verified,NA,0.004,NA,33.52713039,-117.66989996
+L02-502-5,San Juan Capistrano,2023-08-31T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.52713039,-117.66989996
+J07-9109-1,Mission Viejo,2023-07-17T00:00:00Z,1,0.008731,Flowing,Yes,Direct Connection,Priority,34,1228,Verified,NA,NA,NA,33.63979501,-117.65919338
+J07-9109-1,Mission Viejo,2023-09-26T00:00:00Z,1,0.008731,Flowing,Yes,Direct Connection,Priority,34,1570,Verified,NA,0,NA,33.63979501,-117.65919338
+L02-571-3,San Juan Capistrano,2023-06-06T00:00:00Z,1,6.07e-4,Pooled or Ponded,Yes,Direct Connection,Priority,26,NA,Verified,NA,NA,NA,33.49529812,-117.66580017
+L02-571-3,San Juan Capistrano,2023-08-08T00:00:00Z,1,6.07e-4,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,26,6500,Verified,NA,NA,NA,33.49529812,-117.66580017
+I01-11023-5,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55124303,-117.77826688
+I01-11023-5,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55124303,-117.77826688
+L01-218-2,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,0.020075,Flowing,Yes,Direct Connection,Priority,61,3570,Verified,NA,0.002,NA,33.63335256,-117.5643856
+L01-218-2,Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.020075,Flowing,Yes,Direct Connection,Priority,61,4450,Verified,0.01008,NA,NA,33.63335256,-117.5643856
+L01-766-3,San Juan Capistrano,2023-08-08T00:00:00Z,1,0.00798,Flowing,Yes,Direct Connection,Priority,9,24040,Verified,NA,NA,NA,33.48601029,-117.67028871
+L01-766-3,San Juan Capistrano,2023-06-06T00:00:00Z,1,0.00798,Flowing,Yes,Direct Connection,Priority,9,4979,Verified,NA,0.001,NA,33.48601029,-117.67028871
+L02-366-1 (MVL02P14),Mission Viejo,2023-09-26T00:00:00Z,1,0.039306,Flowing,Yes,Undetermined,Not A Priority,NA,1952,Verified,0.165,0.004,NA,33.57029493,-117.65103598
+L02-366-1 (MVL02P14),Mission Viejo,2023-06-28T00:00:00Z,1,0.039306,Flowing,Yes,Undetermined,Not A Priority,NA,1547,Verified,0.0728,0.01,NA,33.57029493,-117.65103598
+I01-11065-1,Laguna Beach,2023-09-20T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55771802,-117.77314078
+I01-11065-1,Laguna Beach,2023-07-07T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55771802,-117.77314078
+L01-125-3,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,0.034201,Pooled or Ponded,Unknown,Direct Connection,Priority,65,NA,Verified,NA,NA,NA,33.65525437,-117.56421057
+L01-125-3,Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.034201,Other - See Comments,Unknown,NA,Priority,65,NA,Verified,NA,NA,NA,33.65525437,-117.56421057
+LC06-11509-2,Laguna Beach,2023-08-14T00:00:00Z,1,0.045629,Flowing,Yes,Direct Connection,Not A Priority,NA,3520,Verified,NA,0.007,NA,33.54345981,-117.79078802
+LC06-11509-2,Laguna Beach,2023-07-06T00:00:00Z,1,0.045629,Flowing,Yes,Direct Connection,Not A Priority,NA,4244,Verified,0.257143,NA,NA,33.54345981,-117.79078802
+L01-766-5,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.48754274,-117.66679527
+L01-766-5,San Juan Capistrano,2023-08-07T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.48754274,-117.66679527
+K01-12156-4,Laguna Niguel,2022-11-08T00:00:00Z,2,1.12108,Flowing,Yes,Direct Connection,Not A Priority,NA,319,Removed From Inventory,NA,NA,NA,33.50593908,-117.70748656
+K01-12156-4,Laguna Niguel,2022-11-09T00:00:00Z,2,1.12108,Flowing,Yes,Direct Connection,Not A Priority,NA,1747,Removed From Inventory,3.6,NA,NA,33.50593908,-117.70748656
+K01-12156-4,Laguna Niguel,2023-08-10T00:00:00Z,1,1.12108,Flowing,Yes,Direct Connection,Not A Priority,NA,4076,Removed From Inventory,3.873469,NA,NA,33.50593908,-117.70748656
+L01-760-1,Orange Co,2023-06-19T00:00:00Z,1,0.019203,Flowing,Yes,NA,Priority,40,1582,Verified,0.025788,0.004,NA,33.5654904,-117.5888937
+L01-760-1,Orange Co,2023-08-17T00:00:00Z,1,0.019203,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,40,1606,Verified,0.062857,NA,NA,33.5654904,-117.5888937
+L01-760-1,Orange Co,2023-06-01T00:00:00Z,1,0.019203,Flowing,Yes,Undetermined,Priority,40,NA,Verified,NA,NA,NA,33.5654904,-117.5888937
+J01-10041-2 (J03P13),Laguna Niguel,2023-08-28T00:00:00Z,1,2.4525,Pooled or Ponded,Yes,NA,Priority,53,NA,Verified,NA,NA,NA,33.55263878,-117.70882948
+J01-10041-2 (J03P13),Laguna Niguel,2023-06-29T00:00:00Z,1,2.4525,Pooled or Ponded,Yes,Undetermined,Priority,53,NA,Verified,NA,NA,NA,33.55263878,-117.70882948
+J01-9046-2,Lake Forest,2022-11-04T00:00:00Z,1,0.099449,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65446074,-117.65968666
+J01-9046-2,Lake Forest,2023-04-25T00:00:00Z,1,0.099449,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65446074,-117.65968666
+J01-9046-2,Lake Forest,2023-08-29T00:00:00Z,1,0.099449,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.65446074,-117.65968666
+J01-9046-2,Lake Forest,2023-05-16T00:00:00Z,1,0.099449,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,0.001,NA,33.65446074,-117.65968666
+J01-9046-2,Lake Forest,2022-11-08T00:00:00Z,2,0.099449,Flowing,Unknown,Direct Connection,Not A Priority,NA,665,Verified,0.008,NA,NA,33.65446074,-117.65968666
+J01-9046-2,Lake Forest,2022-11-08T00:00:00Z,2,0.099449,Flowing,Unknown,Direct Connection,Not A Priority,NA,83,Verified,NA,NA,NA,33.65446074,-117.65968666
+L01-760-2,Orange Co,2023-08-17T00:00:00Z,1,0.075871,Flowing,Yes,Direct Connection,Priority,45,2152,Verified,0.087273,NA,NA,33.56826629,-117.58762624
+L01-760-2,Orange Co,2023-06-01T00:00:00Z,1,0.075871,Flowing,Yes,Direct Connection,Priority,45,2268,Verified,0.126266,NA,NA,33.56826629,-117.58762624
+L01-726-2,Dana Point,2023-06-06T00:00:00Z,1,0,Other - See Comments,Unknown,Direct Connection,Not A Priority,NA,0,Verified,NA,NA,NA,33.47487148,-117.67951556
+L01-726-2,Dana Point,2023-08-08T00:00:00Z,1,0,Flowing,Unknown,Partial - Significant Distance,Not A Priority,NA,26620,Verified,NA,NA,NA,33.47487148,-117.67951556
+J01-10004-1 (J01P01),Lake Forest,2023-05-16T00:00:00Z,1,0.317684,Flowing,Yes,Direct Connection,Priority,85,1964,Verified,0.2625,NA,Yes,33.63341124,-117.67690046
+J01-10004-1 (J01P01),Lake Forest,2023-08-08T00:00:00Z,1,0.317684,Flowing,Yes,Direct Connection,Priority,85,2795,Verified,0.155063,NA,Yes,33.63341124,-117.67690046
+J01-10004-1 (J01P01),Lake Forest,2023-07-18T00:00:00Z,1,0.317684,Flowing,Yes,Direct Connection,Priority,85,2668,Verified,0.204187,NA,Yes,33.63341124,-117.67690046
+J01-10004-1 (J01P01),Lake Forest,2023-08-01T00:00:00Z,1,0.317684,Flowing,Yes,Direct Connection,Priority,85,NA,Verified,0.159079,NA,Yes,33.63341124,-117.67690046
+J01-10004-1 (J01P01),Lake Forest,2023-07-25T00:00:00Z,1,0.317684,Flowing,Yes,Direct Connection,Priority,85,2035,Verified,0.299671,NA,Yes,33.63341124,-117.67690046
+J01-10004-1 (J01P01),Lake Forest,2023-04-25T00:00:00Z,1,0.317684,Flowing,Yes,NA,Priority,85,NA,Verified,1.189286,0.032,Yes,33.63341124,-117.67690046
+J01-10004-1 (J01P01),Lake Forest,2023-02-16T00:00:00Z,1,0.317684,Flowing,Yes,Direct Connection,Priority,85,2170,Verified,0.1323,NA,Yes,33.63341124,-117.67690046
+J01-10004-1 (J01P01),Lake Forest,2023-07-11T00:00:00Z,1,0.317684,Flowing,Yes,Direct Connection,Priority,85,2017,Verified,0.227914,NA,Yes,33.63341124,-117.67690046
+L01-726-5,Dana Point,2023-06-21T00:00:00Z,1,0.015596,Flowing,Yes,Direct Connection,Priority,29,3896,Verified,0.03,0.012,Yes,33.47582393,-117.67931964
+L01-726-5,Dana Point,2023-08-15T00:00:00Z,1,0.015596,Flowing,Yes,Direct Connection,Priority,29,3616,Verified,0.052077,0.016,Yes,33.47582393,-117.67931964
+M02-032-1,San Clemente,2023-08-30T00:00:00Z,1,0.245958,Flowing,Yes,Direct Connection,Priority,70,3027,Verified,0.211511,NA,Yes,33.45754739,-117.6008317
+M02-032-1,San Clemente,2023-06-15T00:00:00Z,1,0.245958,Flowing,Yes,Direct Connection,Priority,70,2699,Verified,0.164718,NA,Yes,33.45754739,-117.6008317
+M02-032-1,San Clemente,2023-02-09T00:00:00Z,1,0.245958,Flowing,Yes,Direct Connection,Priority,70,7307,Verified,0.528866,NA,Yes,33.45754739,-117.6008317
+L01-728-3 (L01S02),Dana Point,2023-09-06T00:00:00Z,1,0.426948,Flowing,Yes,Direct Connection,Not A Priority,NA,8854,Verified,0.184615,NA,NA,33.46552248,-117.68214132
+L01-728-3 (L01S02),Dana Point,2023-05-15T00:00:00Z,1,0.426948,Flowing,Yes,Direct Connection,Not A Priority,NA,10659,Verified,0.457516,NA,NA,33.46552248,-117.68214132
+L01-766-7,San Juan Capistrano,2023-06-05T00:00:00Z,1,8.59e-4,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49229639,-117.66318298
+L01-766-7,San Juan Capistrano,2023-08-07T00:00:00Z,1,8.59e-4,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.49229639,-117.66318298
+DP01-12022-1,Dana Point,2023-09-08T00:00:00Z,1,0.055382,Other - See Comments,Unknown,Direct Connection,NA,NA,NA,Verified,NA,NA,NA,33.464085,-117.71479
+DP01-12022-1,Dana Point,2023-06-15T00:00:00Z,1,0.055382,Flowing,Unknown,Direct Connection,NA,NA,2250,Verified,NA,NA,NA,33.464085,-117.71479
+I01-11343-1,Laguna Woods,2023-05-18T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,Yes,33.61120531,-117.75523831
+I01-11343-1,Laguna Woods,2023-08-03T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,Yes,33.61120531,-117.75523831
+M02-013-1,San Clemente,2023-05-23T00:00:00Z,1,NA,Pooled or Ponded,Yes,Unsafe to Access,Not A Priority,NA,1666,Verified,NA,NA,NA,33.47448662,-117.59757079
+M02-013-1,San Clemente,2023-08-01T00:00:00Z,1,NA,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47448662,-117.59757079
+K01-12036-10,Laguna Niguel,2023-08-30T00:00:00Z,1,0.017986,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,22,4260,Verified,0.185915,NA,NA,33.51221718,-117.71674797
+K01-12036-10,Laguna Niguel,2023-06-28T00:00:00Z,1,0.017986,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,22,1990,Verified,0.003197,NA,NA,33.51221718,-117.71674797
+I01-11010-1,Laguna Beach,2023-06-07T00:00:00Z,1,0.044262,Flowing,Yes,Direct Connection,Priority,57,7262,Verified,0.123529,0.091,Yes,33.54416454,-117.78341193
+I01-11010-1,Laguna Beach,2023-09-06T00:00:00Z,1,0.044262,Flowing,Yes,Direct Connection,Priority,57,NA,Verified,0.05,NA,Yes,33.54416454,-117.78341193
+L01-218-3,Rancho Santa Margarita,2023-06-13T00:00:00Z,1,NA,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.6382812,-117.56728188
+L01-218-3,Rancho Santa Margarita,2023-08-10T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.6382812,-117.56728188
+LC05-11017-1,Laguna Beach,2023-08-14T00:00:00Z,1,0,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.51296498,-117.75533836
+LC05-11017-1,Laguna Beach,2023-07-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.51296498,-117.75533836
+SC07-079-4,San Clemente,2023-09-01T00:00:00Z,1,0.029587,Flowing,Yes,Direct Connection,Not A Priority,NA,9950,Verified,0.211144,NA,NA,33.4250565,-117.62611873
+SC07-079-4,San Clemente,2023-05-24T00:00:00Z,1,0.029587,Flowing,Yes,Direct Connection,Not A Priority,NA,10510,Verified,0.006557,NA,NA,33.4250565,-117.62611873
+L01-728-5 (L01-DP),Dana Point,2023-05-09T00:00:00Z,1,0.011925,Flowing,Yes,Direct Connection,Priority,22,2797,Verified,0.019048,NA,Yes,33.46822415,-117.68222336
+L01-728-5 (L01-DP),Dana Point,2023-09-06T00:00:00Z,1,0.011925,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,22,1486,Verified,0.016,NA,Yes,33.46822415,-117.68222336
+L01-728-5 (L01-DP),Dana Point,2023-08-15T00:00:00Z,1,0.011925,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,22,1961,Verified,0.006532,0.003,Yes,33.46822415,-117.68222336
+L01-728-5 (L01-DP),Dana Point,2023-06-21T00:00:00Z,1,0.011925,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Priority,22,NA,Verified,0.003,0.002,Yes,33.46822415,-117.68222336
+L01-728-5 (L01-DP),Dana Point,2023-01-10T00:00:00Z,2,0.011925,Flowing,Yes,Direct Connection,Priority,22,936,Verified,NA,NA,Yes,33.46822415,-117.68222336
+M02-061-7,San Clemente,2023-09-07T00:00:00Z,1,0.5,NA,Yes,NA,NA,NA,NA,Removed From Inventory,NA,NA,NA,33.433376,-117.631307
+L03-418-3,Laguna Niguel,2023-06-27T00:00:00Z,1,7.22e-4,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55476752,-117.67596107
+L03-708-13,Laguna Niguel,2023-09-01T00:00:00Z,1,0.056238,Flowing,Yes,Direct Connection,Priority,37,1814,Verified,0.141667,NA,NA,33.5646113,-117.67380024
+L03-708-13,Laguna Niguel,2023-06-27T00:00:00Z,1,0.056238,Flowing,Yes,Direct Connection,Priority,37,1404,Verified,0.122892,NA,NA,33.5646113,-117.67380024
+K01-12159-3,Dana Point,2023-06-21T00:00:00Z,1,0.02149,Flowing,Yes,Direct Connection,Priority,43,5133,Verified,0.022275,0.018,Yes,33.48259382,-117.72039805
+K01-12159-3,Dana Point,2023-08-15T00:00:00Z,1,0.02149,Flowing,Yes,Direct Connection,Priority,43,4995,Verified,0.020687,0.014,Yes,33.48259382,-117.72039805
+L01-404-2,Orange Co,2023-06-27T00:00:00Z,1,0.056201,Flowing,Yes,Undetermined,NA,NA,2951,Verified,0.028916,0.016,NA,33.56345111,-117.58552269
+L01-404-2,Orange Co,2023-08-15T00:00:00Z,1,0.056201,Flowing,Yes,Direct Connection,NA,NA,2081,Verified,0.03135,0.032,NA,33.56345111,-117.58552269
+M02-085-2,San Clemente,2023-06-15T00:00:00Z,1,0.263549,Flowing,Yes,Direct Connection,Priority,33,3063,Verified,0.238806,NA,Yes,33.45804389,-117.59425001
+M02-085-2,San Clemente,2023-08-30T00:00:00Z,1,0.263549,Flowing,Yes,Direct Connection,Priority,33,1156,Verified,0.454673,NA,Yes,33.45804389,-117.59425001
+M02-085-2,San Clemente,2023-09-07T00:00:00Z,1,0.263549,Flowing,Yes,Direct Connection,Priority,33,1260,Verified,1.026518,NA,Yes,33.45804389,-117.59425001
+J03-9368-2 (J03TBN2),Laguna Niguel,2023-06-27T00:00:00Z,1,0.02678,Flowing,Yes,NA,Priority,49,5670,Verified,0.069652,NA,NA,33.5401077,-117.69538268
+J03-9368-2 (J03TBN2),Laguna Niguel,2023-09-01T00:00:00Z,1,0.02678,Flowing,Yes,Direct Connection,Priority,49,2592,Verified,0.042857,NA,NA,33.5401077,-117.69538268
+J03-9368-2 (J03TBN2),Laguna Niguel,2023-04-27T00:00:00Z,1,0.02678,Flowing,Yes,NA,Priority,49,NA,Verified,0.004178,0.012,NA,33.5401077,-117.69538268
+J01-9273-1,Laguna Woods,2023-04-25T00:00:00Z,1,0.001426,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,Yes,33.59989171,-117.70736544
+J01-9273-1,Laguna Woods,2022-12-20T00:00:00Z,1,0.001426,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,Yes,33.59989171,-117.70736544
+J01-9273-1,Laguna Woods,2022-12-12T00:00:00Z,2,0.001426,Flowing,Yes,Direct Connection,Not A Priority,NA,234,Verified,NA,NA,Yes,33.59989171,-117.70736544
+J01-9273-1,Laguna Woods,2023-08-03T00:00:00Z,1,0.001426,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,6246,Verified,0.004439,0.004,Yes,33.59989171,-117.70736544
+J01-9273-1,Laguna Woods,2023-05-18T00:00:00Z,1,0.001426,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,Yes,33.59989171,-117.70736544
+L01-724-4 (L01P03),San Juan Capistrano,2023-08-16T00:00:00Z,1,0.135838,Flowing,Yes,Direct Connection,Priority,40,4152,Verified,0.241015,0.052,Yes,33.4847041,-117.675358
+L01-724-4 (L01P03),San Juan Capistrano,2023-06-08T00:00:00Z,1,0.135838,Flowing,Yes,Direct Connection,Priority,40,4004,Verified,0.217582,0.072,Yes,33.4847041,-117.675358
+L01-724-4 (L01P03),San Juan Capistrano,2023-01-10T00:00:00Z,2,0.135838,NA,Yes,Direct Connection,Priority,40,1428,Verified,NA,NA,Yes,33.4847041,-117.675358
+L01-726-7,Dana Point,2023-06-06T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47686584,-117.67845403
+L01-726-7,Dana Point,2023-08-08T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.47686584,-117.67845403
+L02-541-6,San Juan Capistrano,2023-06-06T00:00:00Z,1,0.002091,Pooled or Ponded,Yes,Direct Connection,Priority,34,NA,Verified,NA,NA,NA,33.49978079,-117.66610487
+L02-541-6,San Juan Capistrano,2023-08-08T00:00:00Z,1,0.002091,Flowing,Yes,Direct Connection,Priority,34,9560,Verified,NA,NA,NA,33.49978079,-117.66610487
+J03-9216-5,Laguna Niguel,2023-09-01T00:00:00Z,1,NA,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.5281727,-117.70977013
+J03-9216-5,Laguna Niguel,2023-06-27T00:00:00Z,1,NA,Pooled or Ponded,Yes,NA,NA,NA,NA,Verified,NA,NA,NA,33.5281727,-117.70977013
+I00-11453-1,Laguna Beach,2023-08-14T00:00:00Z,1,0.013896,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53709679,-117.78051537
+I00-11453-1,Laguna Beach,2023-07-06T00:00:00Z,1,0.013896,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.53709679,-117.78051537
+M02-028-2 (M02P08),San Clemente,2023-08-01T00:00:00Z,1,0.040333,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46680966,-117.58174343
+M02-028-2 (M02P08),San Clemente,2023-05-23T00:00:00Z,1,0.040333,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.46680966,-117.58174343
+L02-166-1 (L02PXX),Rancho Santa Margarita,2023-08-10T00:00:00Z,1,0.041916,Other - See Comments,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.6364723,-117.6196135
+L02-166-1 (L02PXX),Rancho Santa Margarita,2023-06-12T00:00:00Z,1,0.041916,Flowing,Unknown,Direct Connection,Not A Priority,NA,3250,Verified,NA,0.01,NA,33.6364723,-117.6196135
+K01-12177-1 (K01P07),Laguna Niguel,2023-08-10T00:00:00Z,1,0.254271,Flowing,Yes,Direct Connection,Priority,77,1804,Verified,0.36,0.101,Yes,33.50860089,-117.70738067
+K01-12177-1 (K01P07),Laguna Niguel,2023-05-23T00:00:00Z,1,0.254271,Flowing,Yes,Undetermined,Priority,77,2584,Verified,0.276647,0.071,Yes,33.50860089,-117.70738067
+L01-471-1,Orange Co,2023-08-14T00:00:00Z,1,0.00661,Flowing,Unknown,Partial - Significant Distance,NA,NA,2546,Verified,0.051173,NA,NA,33.52557232,-117.59730639
+L01-471-1,Orange Co,2023-05-30T00:00:00Z,1,0.00661,Flowing,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,2838,Verified,0.009167,NA,NA,33.52557232,-117.59730639
+L02-401-1,Orange Co,2023-09-25T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56202999,-117.65235518
+L02-401-1,Orange Co,2023-05-15T00:00:00Z,1,0,Pooled or Ponded,Yes,Direct Connection,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56202999,-117.65235518
+L01-458-1,Orange Co,2023-05-30T00:00:00Z,1,6.75e-4,Flowing,Unknown,Undetermined,Not A Priority,NA,262,Verified,NA,NA,NA,33.5249855,-117.61511696
+L01-458-1,Orange Co,2023-08-14T00:00:00Z,1,6.75e-4,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.5249855,-117.61511696
+J01-9377-2 (J01TBN8),Lake Forest,2023-09-26T00:00:00Z,1,4.2e-5,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.66001815,-117.65341104
+J01-9377-2 (J01TBN8),Lake Forest,2023-07-27T00:00:00Z,1,4.2e-5,Pooled or Ponded,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.66001815,-117.65341104
+SC11-035-2d,Dana Point,2023-08-03T00:00:00Z,1,0,Dry,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.45863064,-117.67399502
+SC11-035-2d,Dana Point,2023-05-25T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.45863064,-117.67399502
+J01-10012-3,Mission Viejo,2023-07-13T00:00:00Z,1,0,Dry,Unknown,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.66921793,-117.62696238
+M01-038-3,San Clemente,2023-08-01T00:00:00Z,1,0.005304,Flowing,Yes,NA,NA,NA,NA,Verified,NA,NA,NA,33.46498894,-117.63926154
+M01-038-3,San Clemente,2023-05-23T00:00:00Z,1,0.005304,NA,Yes,Undetermined,NA,NA,NA,Verified,NA,NA,NA,33.46498894,-117.63926154
+L05-503-1,San Juan Capistrano,2023-06-08T00:00:00Z,1,0.083576,Flowing,Yes,Direct Connection,Priority,53,4066,Verified,0.066667,NA,Yes,33.510673,-117.657309
+L05-503-1,San Juan Capistrano,2023-08-16T00:00:00Z,1,0.083576,Flowing,Yes,Direct Connection,Priority,53,3626,Verified,0.25527300000000003,NA,Yes,33.510673,-117.657309
+I00-11437-1,Laguna Beach,2023-09-06T00:00:00Z,1,0.126,Flowing,Yes,Undetermined,Priority,48,NA,Verified,0.19,NA,Yes,33.53349571,-117.77025471
+I00-11437-1,Laguna Beach,2023-06-07T00:00:00Z,1,0.126,Flowing,Yes,Undetermined,Priority,48,9184,Verified,0.18,NA,Yes,33.53349571,-117.77025471
+J03-9234-5,Laguna Niguel,2023-08-30T00:00:00Z,1,0.012591,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.51976015,-117.7070197
+J03-9234-5,Laguna Niguel,2023-06-28T00:00:00Z,1,0.012591,NA,Yes,Undetermined,Not A Priority,NA,2046,Verified,0.010824,NA,NA,33.51976015,-117.7070197
+M01-050-4 (M01@CGV),San Clemente,2023-08-02T00:00:00Z,1,0.062131,Flowing,Yes,Direct Connection,Priority,62,3355,Verified,0.166667,NA,NA,33.44580832,-117.64415031
+M01-050-4 (M01@CGV),San Clemente,2023-05-23T00:00:00Z,1,0.062131,Flowing,Yes,Direct Connection,Priority,62,11060,Verified,0.023136,NA,NA,33.44580832,-117.64415031
+L03-455-7,Laguna Niguel,2023-06-29T00:00:00Z,1,0.052896,Flowing,Yes,Direct Connection,Priority,56,8150,Verified,NA,0.004,NA,33.54509046,-117.67466643
+L03-455-7,Laguna Niguel,2023-08-31T00:00:00Z,1,0.052896,Flowing,Yes,Direct Connection,Priority,56,7010,Verified,0.023762,NA,NA,33.54509046,-117.67466643
+J03-9215-3,Laguna Niguel,2023-09-01T00:00:00Z,1,0.04731,Flowing,Yes,Direct Connection,Priority,51,6038,Verified,0.107143,NA,NA,33.53410231,-117.70157479
+J03-9215-3,Laguna Niguel,2023-04-26T00:00:00Z,1,0.04731,Flowing,Yes,NA,Priority,51,NA,Verified,0.00453,NA,NA,33.53410231,-117.70157479
+J03-9215-3,Laguna Niguel,2023-06-27T00:00:00Z,1,0.04731,Flowing,Yes,NA,Priority,51,5916,Verified,0.173684,NA,NA,33.53410231,-117.70157479
+L01-747-2,San Juan Capistrano,2023-06-05T00:00:00Z,1,0.026835,Flowing,Yes,Undetermined,Not A Priority,NA,4060,Verified,0.022706,NA,NA,33.51061235,-117.63301176
+L01-747-2,San Juan Capistrano,2023-08-09T00:00:00Z,1,0.026835,Flowing,Yes,Undetermined,Not A Priority,NA,4518,Verified,0.0625,NA,NA,33.51061235,-117.63301176
+LC01-11480-1,Orange Co,2023-09-07T00:00:00Z,1,NA,Flowing,Yes,Undetermined,Not A Priority,NA,7410,Verified,NA,NA,NA,33.5610309,-117.82145382
+LC01-11480-1,Orange Co,2023-05-09T00:00:00Z,1,NA,Flowing,Yes,Direct Connection,Not A Priority,NA,7511,Verified,NA,NA,NA,33.5610309,-117.82145382
+L03-316-1,Mission Viejo,2023-09-26T00:00:00Z,1,0.036202,Flowing,Yes,NA,Priority,59,2240,Verified,0.008129,0.003,NA,33.59093498,-117.65966805
+L03-316-1,Mission Viejo,2023-07-13T00:00:00Z,1,0.036202,Flowing,Yes,Partial - Significant Distance,Priority,59,2810,Verified,0.001286,0,NA,33.59093498,-117.65966805
+J07-9110-3,Mission Viejo,2023-04-25T00:00:00Z,1,0.010083,Flowing,Yes,NA,Priority,43,NA,Verified,0.015624,NA,NA,33.63962029,-117.65927591
+J07-9110-3,Mission Viejo,2023-07-17T00:00:00Z,1,0.010083,Flowing,Yes,Direct Connection,Priority,43,1082,Verified,NA,0,NA,33.63962029,-117.65927591
+J07-9110-3,Mission Viejo,2023-08-28T00:00:00Z,1,0.010083,Flowing,Yes,Direct Connection,Priority,43,952,Verified,0.004258,NA,NA,33.63962029,-117.65927591
+L01-733-2,Orange Co,2023-05-31T00:00:00Z,1,0.113928,Pooled or Ponded,Yes,NA,Priority,55,NA,Verified,NA,NA,NA,33.62048952,-117.58270693
+L01-733-2,Orange Co,2023-08-15T00:00:00Z,1,0.113928,Flowing,Yes,Direct Connection,Priority,55,NA,Verified,NA,NA,NA,33.62048952,-117.58270693
+L03-418-2,Laguna Niguel,2023-09-01T00:00:00Z,1,0.006795,Other - See Comments,Unknown,Direct Connection,Not A Priority,NA,3060,Verified,0.00125,NA,NA,33.55409343,-117.67599109
+L03-418-2,Laguna Niguel,2023-06-27T00:00:00Z,1,0.006795,NA,Unknown,NA,Not A Priority,NA,4630,Verified,NA,NA,NA,33.55409343,-117.67599109
+L01-242-1 (L07P16),Orange Co,2023-05-31T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,1581,Verified,NA,NA,NA,33.61466784,-117.58256314
+L01-242-1 (L07P16),Orange Co,2023-08-15T00:00:00Z,1,NA,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.61466784,-117.58256314
+L01-372-1,Orange Co,2023-08-17T00:00:00Z,1,0.007224,Pooled or Ponded,Yes,Partial - Significant Distance,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56873885,-117.58537899
+L01-372-1,Orange Co,2023-06-01T00:00:00Z,1,0.007224,Pooled or Ponded,Yes,Undetermined,Not A Priority,NA,NA,Verified,NA,NA,NA,33.56873885,-117.58537899
+J01-10006-3,Lake Forest,2023-07-27T00:00:00Z,1,0.120528,Flowing,Yes,Partial - Significant Distance,NA,NA,1522,Verified,0.205586,NA,NA,33.62962196,-117.68029293
+J01-10006-3,Lake Forest,2023-09-25T00:00:00Z,1,0.120528,Flowing,Yes,None - Flow Infiltrates or Outfall is Dry,NA,NA,2009,Verified,NA,NA,NA,33.62962196,-117.68029293
+I01-11487-2,Laguna Beach,2023-07-06T00:00:00Z,1,0.008375,Pooled or Ponded,Yes,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54099301,-117.78352033
+I01-11487-2,Laguna Beach,2023-08-14T00:00:00Z,1,0.008375,Pooled or Ponded,Yes,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.54099301,-117.78352033
+I01-11023-2,Laguna Beach,2023-09-20T00:00:00Z,1,2.04e-4,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55023025,-117.77958663
+I01-11023-2,Laguna Beach,2023-07-07T00:00:00Z,1,2.04e-4,Other - See Comments,Unknown,None - Flow Infiltrates or Outfall is Dry,Not A Priority,NA,NA,Verified,NA,NA,NA,33.55023025,-117.77958663
+SC07-079-5,San Clemente,2023-09-01T00:00:00Z,1,0.201763,Flowing,Unknown,Direct Connection,Not A Priority,NA,1052,Verified,1.193182,NA,NA,33.42428978,-117.62528886
+SC07-079-5,San Clemente,2023-05-24T00:00:00Z,1,0.201763,Dry,Unknown,NA,Not A Priority,NA,NA,Verified,NA,NA,NA,33.42428978,-117.62528886
+J07-9022-1,Mission Viejo,2023-09-26T00:00:00Z,1,0.004493,Flowing,Yes,Direct Connection,Priority,41,1624,Verified,0.001125,0.001,NA,33.62678091,-117.67477248
+J07-9022-1,Mission Viejo,2023-08-28T00:00:00Z,1,0.004493,NA,Yes,NA,Priority,41,NA,Verified,NA,NA,NA,33.62678091,-117.67477248
+J07-9022-1,Mission Viejo,2023-07-27T00:00:00Z,1,0.004493,Flowing,Yes,Partial - Significant Distance,Priority,41,2330,Verified,0.018,0.006,NA,33.62678091,-117.67477248
+L01-399-2,Orange Co,2023-08-17T00:00:00Z,1,0.001,Other - See Comments,Unknown,NA,NA,NA,NA,Verified,NA,NA,NA,33.56270889,-117.54673284
+L01-517-8,San Juan Capistrano,2023-06-05T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.518737,-117.6245
+L01-517-8,San Juan Capistrano,2023-08-09T00:00:00Z,1,0,Dry,Unknown,None - Flow Infiltrates or Outfall is Dry,NA,NA,NA,Verified,NA,NA,NA,33.518737,-117.6245
+L01-261-1,Orange Co,2023-08-15T00:00:00Z,1,0.008361,Flowing,Yes,Direct Connection,Priority,38,1068,Verified,0.001535,NA,NA,33.6130471,-117.58359264
+L01-261-1,Orange Co,2023-05-31T00:00:00Z,1,0.008361,Flowing,Yes,Direct Connection,Priority,38,1212,Verified,0.017778,NA,NA,33.6130471,-117.58359264
+L03-316-4,Mission Viejo,2023-06-26T00:00:00Z,1,0.019996,Flowing,Yes,Direct Connection,Priority,43,3631,Verified,0.00225,0.001,NA,33.59616259,-117.65608011
+L03-316-4,Mission Viejo,2023-09-26T00:00:00Z,1,0.019996,Flowing,Yes,NA,Priority,43,1990,Verified,0.004,0.006,NA,33.59616259,-117.65608011
+J01-9224-1 (J01P24),Laguna Niguel,2023-07-18T00:00:00Z,1,0.033535,Flowing,Yes,Direct Connection,Priority,62,4211,Verified,0.007015,0.005,Yes,33.55648201,-117.71779825
+J01-9224-1 (J01P24),Laguna Niguel,2023-04-26T00:00:00Z,1,0.033535,Flowing,Yes,NA,Priority,62,NA,Verified,0.126168,0.006,Yes,33.55648201,-117.71779825
+J01-9224-1 (J01P24),Laguna Niguel,2023-08-08T00:00:00Z,1,0.033535,Flowing,Yes,Direct Connection,Priority,62,3407,Verified,0.009143,0.004,Yes,33.55648201,-117.71779825
+J01-9224-1 (J01P24),Laguna Niguel,2023-07-11T00:00:00Z,1,0.033535,Flowing,Yes,Direct Connection,Priority,62,4792,Verified,0.12141,NA,Yes,33.55648201,-117.71779825
+J01-9224-1 (J01P24),Laguna Niguel,2023-02-09T00:00:00Z,1,0.033535,Flowing,Yes,Direct Connection,Priority,62,4786,Verified,0.084,NA,Yes,33.55648201,-117.71779825
+J01-9224-1 (J01P24),Laguna Niguel,2023-08-01T00:00:00Z,1,0.033535,Flowing,Yes,Direct Connection,Priority,62,4978,Verified,0.02654,0.004,Yes,33.55648201,-117.71779825
+J01-9224-1 (J01P24),Laguna Niguel,2023-05-23T00:00:00Z,1,0.033535,Flowing,Yes,Direct Connection,Priority,62,2908,Verified,0.02777,0.007,Yes,33.55648201,-117.71779825
+J01-9224-1 (J01P24),Laguna Niguel,2023-07-25T00:00:00Z,1,0.033535,Flowing,Yes,Direct Connection,Priority,62,4971,Verified,0.009956,0.003,Yes,33.55648201,-117.71779825

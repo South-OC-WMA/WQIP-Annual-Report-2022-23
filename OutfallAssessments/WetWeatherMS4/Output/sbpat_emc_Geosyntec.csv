@@ -1,0 +1,82 @@
+"","Constituent","Fraction","Units","EMC_Group","EMC"
+"1","Fecal coliforms","Total","CFU/100 mL","agriculture",1340
+"2","TN","Total","mg/L","agriculture",35.07
+"3","TP","Total","mg/L","agriculture",1.85
+"4","TSS","Total","mg/L","agriculture",626
+"5","Copper, Total","Total","mg/L","agriculture",0.0501
+"6","Lead, Total","Total","mg/L","agriculture",0.0021
+"7","Zinc, Total","Total","mg/L","agriculture",0.1374
+"8","Copper, Total","Dissolved","mg/L","agriculture",0.0113
+"9","Zinc, Total","Dissolved","mg/L","agriculture",0.0201
+"10","Fecal coliforms","Total","CFU/100 mL","business",11600
+"11","TN","Total","mg/L","business",2.71
+"12","TP","Total","mg/L","business",0.34
+"13","TSS","Total","mg/L","business",79.9
+"14","Copper, Total","Total","mg/L","business",0.0254
+"15","Lead, Total","Total","mg/L","business",0.0021
+"16","Zinc, Total","Total","mg/L","business",0.1569
+"17","Copper, Total","Dissolved","mg/L","business",0.0137
+"18","Zinc, Total","Dissolved","mg/L","business",0.0932
+"19","Fecal coliforms","Total","CFU/100 mL","multi-family",11600
+"20","TN","Total","mg/L","multi-family",3.95
+"21","TP","Total","mg/L","multi-family",0.37
+"22","TSS","Total","mg/L","multi-family",66.7
+"23","Copper, Total","Total","mg/L","multi-family",0.0243
+"24","Lead, Total","Total","mg/L","multi-family",0.0021
+"25","Zinc, Total","Total","mg/L","multi-family",0.1132
+"26","Copper, Total","Dissolved","mg/L","multi-family",0.0147
+"27","Zinc, Total","Dissolved","mg/L","multi-family",0.0596
+"28","Fecal coliforms","Total","CFU/100 mL","single family",11600
+"29","TN","Total","mg/L","single family",4.12
+"30","TP","Total","mg/L","single family",0.45
+"31","TSS","Total","mg/L","single family",104.2
+"32","Copper, Total","Total","mg/L","single family",0.0268
+"33","Lead, Total","Total","mg/L","single family",0.0021
+"34","Zinc, Total","Total","mg/L","single family",0.1021
+"35","Copper, Total","Dissolved","mg/L","single family",0.0148
+"36","Zinc, Total","Dissolved","mg/L","single family",0.0413
+"37","Fecal coliforms","Total","CFU/100 mL","highway/arterial",1680
+"38","TN","Total","mg/L","highway/arterial",2.58
+"39","TP","Total","mg/L","highway/arterial",0.68
+"40","TSS","Total","mg/L","highway/arterial",77.8
+"41","Copper, Total","Total","mg/L","highway/arterial",0.0522
+"42","Lead, Total","Total","mg/L","highway/arterial",0.0092
+"43","Zinc, Total","Total","mg/L","highway/arterial",0.2929
+"44","Copper, Total","Dissolved","mg/L","highway/arterial",0.0324
+"45","Zinc, Total","Dissolved","mg/L","highway/arterial",0.222
+"46","Fecal coliforms","Total","CFU/100 mL","surface street",9940
+"47","TN","Total","mg/L","surface street",3.66
+"48","TP","Total","mg/L","surface street",0.47
+"49","TSS","Total","mg/L","surface street",93.6
+"50","Copper, Total","Total","mg/L","surface street",0.0306
+"51","Lead, Total","Total","mg/L","surface street",0.0033
+"52","Zinc, Total","Total","mg/L","surface street",0.142
+"53","Copper, Total","Dissolved","mg/L","surface street",0.0176
+"54","Zinc, Total","Dissolved","mg/L","surface street",0.0797
+"55","Fecal coliforms","Total","CFU/100 mL","developed open space",11600
+"56","TN","Total","mg/L","developed open space",3.99
+"57","TP","Total","mg/L","developed open space",0.43
+"58","TSS","Total","mg/L","developed open space",110.9
+"59","Copper, Total","Total","mg/L","developed open space",0.0106
+"60","Lead, Total","Total","mg/L","developed open space",0.0021
+"61","Zinc, Total","Total","mg/L","developed open space",0.0263
+"62","Copper, Total","Dissolved","mg/L","developed open space",6e-04
+"63","Zinc, Total","Dissolved","mg/L","developed open space",0.0281
+"64","Fecal coliforms","Total","CFU/100 mL","open space",484
+"65","TN","Total","mg/L","open space",2.13
+"66","TP","Total","mg/L","open space",0.12
+"67","TSS","Total","mg/L","open space",217
+"68","Copper, Total","Total","mg/L","open space",0.0106
+"69","Lead, Total","Total","mg/L","open space",0.003
+"70","Zinc, Total","Total","mg/L","open space",0.0263
+"71","Copper, Total","Dissolved","mg/L","open space",6e-04
+"72","Zinc, Total","Dissolved","mg/L","open space",0.0281
+"73","Fecal coliforms","Total","CFU/100 mL","WATER",0
+"74","TN","Total","mg/L","WATER",0
+"75","TP","Total","mg/L","WATER",0
+"76","TSS","Total","mg/L","WATER",0
+"77","Copper, Total","Total","mg/L","WATER",0
+"78","Lead, Total","Total","mg/L","WATER",0
+"79","Zinc, Total","Total","mg/L","WATER",0
+"80","Copper, Total","Dissolved","mg/L","WATER",0
+"81","Zinc, Total","Dissolved","mg/L","WATER",0

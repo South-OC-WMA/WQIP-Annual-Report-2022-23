@@ -1,0 +1,33 @@
+EMC_Group,Constituent,Fraction,Units,EMC_WMA_LU
+agriculture,Fecal coliforms,Total,CFU/100 mL,790.9673212163975
+agriculture,TN,Total,mg/L,4.880782305070802
+agriculture,TP,Total,mg/L,0.9099716831952092
+agriculture,TSS,Total,mg/L,159.54311998016178
+business,Fecal coliforms,Total,CFU/100 mL,13342.777547858801
+business,TN,Total,mg/L,4.180359470751109
+business,TP,Total,mg/L,0.4496758916411083
+business,TSS,Total,mg/L,38.06133166305419
+developed open space,Fecal coliforms,Total,CFU/100 mL,13174.898404092954
+developed open space,TN,Total,mg/L,3.703794151360207
+developed open space,TP,Total,mg/L,0.6019304734484769
+developed open space,TSS,Total,mg/L,89.11930503989356
+highway/arterial,Fecal coliforms,Total,CFU/100 mL,1844.5615567146087
+highway/arterial,TN,Total,mg/L,3.695598177017278
+highway/arterial,TP,Total,mg/L,0.8386072241007074
+highway/arterial,TSS,Total,mg/L,25.638285686527144
+multi-family,Fecal coliforms,Total,CFU/100 mL,13488.27108600516
+multi-family,TN,Total,mg/L,4.64356144806401
+multi-family,TP,Total,mg/L,0.5226731148836207
+multi-family,TSS,Total,mg/L,41.43676107694904
+open space,Fecal coliforms,Total,CFU/100 mL,521.8532872195703
+open space,TN,Total,mg/L,1.3148486650842484
+open space,TP,Total,mg/L,0.14385325167611027
+open space,TSS,Total,mg/L,212.59334926197397
+single family,Fecal coliforms,Total,CFU/100 mL,11265.618740943799
+single family,TN,Total,mg/L,2.803262562336354
+single family,TP,Total,mg/L,0.48748550060215656
+single family,TSS,Total,mg/L,74.10754270588922
+surface street,Fecal coliforms,Total,CFU/100 mL,11115.077836774795
+surface street,TN,Total,mg/L,3.46633663785665
+surface street,TP,Total,mg/L,0.63101865604584
+surface street,TSS,Total,mg/L,64.30979524128249
